@@ -1,0 +1,1572 @@
+"","x"
+"R.version.platform","x86_64-pc-linux-gnu"
+"R.version.arch","x86_64"
+"R.version.os","linux-gnu"
+"R.version.system","x86_64, linux-gnu"
+"R.version.status",""
+"R.version.major","3"
+"R.version.minor","6.1"
+"R.version.year","2019"
+"R.version.month","07"
+"R.version.day","05"
+"R.version.svn rev","76782"
+"R.version.language","R"
+"R.version.version.string","R version 3.6.1 (2019-07-05)"
+"R.version.nickname","Action of the Toes"
+"platform","x86_64-pc-linux-gnu (64-bit)"
+"locale","LC_CTYPE=en_NZ.UTF-8;LC_NUMERIC=C;LC_TIME=en_NZ.UTF-8;LC_COLLATE=en_NZ.UTF-8;LC_MONETARY=en_NZ.UTF-8;LC_MESSAGES=en_NZ.UTF-8;LC_PAPER=en_NZ.UTF-8;LC_NAME=C;LC_ADDRESS=C;LC_TELEPHONE=C;LC_MEASUREMENT=en_NZ.UTF-8;LC_IDENTIFICATION=C"
+"running","Ubuntu 18.04.3 LTS"
+"RNGkind1","Mersenne-Twister"
+"RNGkind2","Inversion"
+"RNGkind3","Rejection"
+"basePkgs1","stats"
+"basePkgs2","graphics"
+"basePkgs3","grDevices"
+"basePkgs4","utils"
+"basePkgs5","datasets"
+"basePkgs6","methods"
+"basePkgs7","base"
+"otherPkgs.viridis.Package","viridis"
+"otherPkgs.viridis.Type","Package"
+"otherPkgs.viridis.Title","Default Color Maps from 'matplotlib'"
+"otherPkgs.viridis.Version","0.5.1"
+"otherPkgs.viridis.Authors@R","c(
+      person(""Simon"", ""Garnier"", email = ""garnier@njit.edu"", role = c(""aut"", ""cre"")),
+      person(""Noam"", ""Ross"", email = ""noam.ross@gmail.com"", role = c(""ctb"", ""cph"")),
+      person(""Bob"", ""Rudis"", email = ""bob@rud.is"", role = c(""ctb"", ""cph"")),
+      person(""Marco"", ""Sciaini"", email = ""sciaini.marco@gmail.com"", role = c(""ctb"", ""cph"")),
+      person(""Cédric"", ""Scherer"", email = ""scherer@izw-berlin.de"", role = c(""ctb"", ""cph""))
+  )"
+"otherPkgs.viridis.Maintainer","Simon Garnier <garnier@njit.edu>"
+"otherPkgs.viridis.Description","Implementation of the 'viridis' - the default -, 'magma', 'plasma', 
+    'inferno', and 'cividis' color maps for 'R'. 'viridis', 'magma', 'plasma', 
+    and 'inferno' are ported from 'matplotlib' <http://matplotlib.org/>, a 
+    popular plotting library for 'python'. 'cividis', was developed by Jamie R. 
+    Nuñez and Sean M. Colby. These color maps are designed in such a way that 
+    they will analytically be perfectly perceptually-uniform, both in regular 
+    form and also when converted to black-and-white. They are also designed to 
+    be perceived by readers with the most common form of color blindness (all 
+    color maps in this package) and color vision deficiency ('cividis' only). "
+"otherPkgs.viridis.License","MIT + file LICENSE"
+"otherPkgs.viridis.LazyData","TRUE"
+"otherPkgs.viridis.Encoding","UTF-8"
+"otherPkgs.viridis.Depends","R (>= 2.10), viridisLite (>= 0.3.0)"
+"otherPkgs.viridis.Imports","stats, ggplot2 (>= 1.0.1), gridExtra"
+"otherPkgs.viridis.Suggests","hexbin (>= 1.27.0), scales, MASS, knitr, dichromat,
+colorspace, rasterVis, httr, mapproj, vdiffr, svglite (>=
+1.2.0), testthat, covr, rmarkdown, rgdal"
+"otherPkgs.viridis.VignetteBuilder","knitr"
+"otherPkgs.viridis.URL","https://github.com/sjmgarnier/viridis"
+"otherPkgs.viridis.BugReports","https://github.com/sjmgarnier/viridis/issues"
+"otherPkgs.viridis.RoxygenNote","6.0.1"
+"otherPkgs.viridis.NeedsCompilation","no"
+"otherPkgs.viridis.Packaged","2018-03-29 14:51:56 UTC; simon"
+"otherPkgs.viridis.Author","Simon Garnier [aut, cre],
+  Noam Ross [ctb, cph],
+  Bob Rudis [ctb, cph],
+  Marco Sciaini [ctb, cph],
+  Cédric Scherer [ctb, cph]"
+"otherPkgs.viridis.Repository","CRAN"
+"otherPkgs.viridis.Date/Publication","2018-03-29 15:48:56 UTC"
+"otherPkgs.viridis.Built","R 3.6.0; ; 2019-07-02 23:39:00 UTC; unix"
+"otherPkgs.viridisLite.Package","viridisLite"
+"otherPkgs.viridisLite.Type","Package"
+"otherPkgs.viridisLite.Title","Default Color Maps from 'matplotlib' (Lite Version)"
+"otherPkgs.viridisLite.Version","0.3.0"
+"otherPkgs.viridisLite.Authors@R","c(
+      person(""Simon"", ""Garnier"", email = ""garnier@njit.edu"", role = c(""aut"", ""cre"")),
+      person(""Noam"", ""Ross"", email = ""noam.ross@gmail.com"", role = c(""ctb"", ""cph"")),
+      person(""Bob"", ""Rudis"", email = ""bob@rud.is"", role = c(""ctb"", ""cph"")),
+      person(""Marco"", ""Sciaini"", email = ""sciaini.marco@gmail.com"", role = c(""ctb"", ""cph"")),
+      person(""Cédric"", ""Scherer"", email = ""scherer@izw-berlin.de"", role = c(""ctb"", ""cph""))
+  )"
+"otherPkgs.viridisLite.Maintainer","Simon Garnier <garnier@njit.edu>"
+"otherPkgs.viridisLite.Description","Implementation of the 'viridis' - the default -, 'magma', 'plasma', 
+    'inferno', and 'cividis' color maps for 'R'. 'viridis', 'magma', 'plasma', 
+    and 'inferno' are ported from 'matplotlib' <http://matplotlib.org/>, a 
+    popular plotting library for 'python'. 'cividis', was developed by Jamie R. 
+    Nuñez and Sean M. Colby. These color maps are designed in such a way that 
+    they will analytically be perfectly perceptually-uniform, both in regular 
+    form and also when converted to black-and-white. They are also designed to 
+    be perceived by readers with the most common form of color blindness (all 
+    color maps in this package) and color vision deficiency ('cividis' only). 
+    This is the 'lite' version of the more complete 'viridis' package that can 
+    be found at <https://cran.r-project.org/package=viridis>."
+"otherPkgs.viridisLite.License","MIT + file LICENSE"
+"otherPkgs.viridisLite.LazyData","TRUE"
+"otherPkgs.viridisLite.Encoding","UTF-8"
+"otherPkgs.viridisLite.Depends","R (>= 2.10)"
+"otherPkgs.viridisLite.Suggests","hexbin (>= 1.27.0), ggplot2 (>= 1.0.1), testthat, covr"
+"otherPkgs.viridisLite.URL","https://github.com/sjmgarnier/viridisLite"
+"otherPkgs.viridisLite.BugReports","https://github.com/sjmgarnier/viridisLite/issues"
+"otherPkgs.viridisLite.RoxygenNote","6.0.1"
+"otherPkgs.viridisLite.NeedsCompilation","no"
+"otherPkgs.viridisLite.Packaged","2018-02-01 17:33:56 UTC; simon"
+"otherPkgs.viridisLite.Author","Simon Garnier [aut, cre],
+  Noam Ross [ctb, cph],
+  Bob Rudis [ctb, cph],
+  Marco Sciaini [ctb, cph],
+  Cédric Scherer [ctb, cph]"
+"otherPkgs.viridisLite.Repository","CRAN"
+"otherPkgs.viridisLite.Date/Publication","2018-02-01 22:45:56 UTC"
+"otherPkgs.viridisLite.Built","R 3.6.0; ; 2019-04-29 04:43:30 UTC; unix"
+"otherPkgs.maps.Package","maps"
+"otherPkgs.maps.Title","Draw Geographical Maps"
+"otherPkgs.maps.Version","3.3.0"
+"otherPkgs.maps.Date","2018-04-03"
+"otherPkgs.maps.Author","Original S code by Richard A. Becker and Allan R. Wilks.
+	R version by Ray Brownrigg.
+        Enhancements by Thomas P Minka and Alex Deckmyn."
+"otherPkgs.maps.Description","Display of maps.  Projection code and larger maps are in
+             separate packages ('mapproj' and 'mapdata')."
+"otherPkgs.maps.Depends","R (>= 3.0.0)"
+"otherPkgs.maps.Imports","graphics, utils"
+"otherPkgs.maps.LazyData","yes"
+"otherPkgs.maps.Suggests","mapproj (>= 1.2-0), mapdata (>= 2.3.0), sp, maptools,
+rnaturalearth"
+"otherPkgs.maps.License","GPL-2"
+"otherPkgs.maps.Maintainer","Alex Deckmyn <alex.deckmyn@meteo.be>"
+"otherPkgs.maps.NeedsCompilation","yes"
+"otherPkgs.maps.Repository","CRAN"
+"otherPkgs.maps.Packaged","2018-04-03 07:33:40 UTC; dalex"
+"otherPkgs.maps.Date/Publication","2018-04-03 08:24:49 UTC"
+"otherPkgs.maps.Built","R 3.6.0; x86_64-pc-linux-gnu; 2019-05-20 02:51:55 UTC; unix"
+"otherPkgs.sf.Package","sf"
+"otherPkgs.sf.Version","0.8-0"
+"otherPkgs.sf.Title","Simple Features for R"
+"otherPkgs.sf.Authors@R","
+    c(person(given = ""Edzer"",
+             family = ""Pebesma"",
+             role = c(""aut"", ""cre""),
+             email = ""edzer.pebesma@uni-muenster.de"",
+             comment = c(ORCID = ""0000-0001-8049-7069"")),
+      person(given = ""Roger"",
+             family = ""Bivand"",
+             role = ""ctb"",
+             comment = c(ORCID = ""0000-0003-2392-6140"")),
+      person(given = ""Etienne"",
+             family = ""Racine"",
+             role = ""ctb""),
+      person(given = ""Michael"",
+             family = ""Sumner"",
+             role = ""ctb""),
+      person(given = ""Ian"",
+             family = ""Cook"",
+             role = ""ctb""),
+      person(given = ""Tim"",
+             family = ""Keitt"",
+             role = ""ctb""),
+      person(given = ""Robin"",
+             family = ""Lovelace"",
+             role = ""ctb""),
+      person(given = ""Hadley"",
+             family = ""Wickham"",
+             role = ""ctb""),
+      person(given = ""Jeroen"",
+             family = ""Ooms"",
+             role = ""ctb"",
+             comment = c(ORCID = ""0000-0002-4035-0289"")),
+      person(given = ""Kirill"",
+             family = ""Müller"",
+             role = ""ctb""),
+      person(given = ""Thomas Lin"",
+             family = ""Pedersen"",
+             role = ""ctb""),
+      person(given = ""Dan"",
+             family = ""Baston"",
+             role = ""ctb""))"
+"otherPkgs.sf.Description","Support for simple features, a standardized way to
+    encode spatial vector data. Binds to 'GDAL' for reading and writing
+    data, to 'GEOS' for geometrical operations, and to 'PROJ' for
+    projection conversions and datum transformations."
+"otherPkgs.sf.License","GPL-2 | MIT + file LICENSE"
+"otherPkgs.sf.URL","https://github.com/r-spatial/sf/, https://r-spatial.github.io/sf/"
+"otherPkgs.sf.BugReports","https://github.com/r-spatial/sf/issues/"
+"otherPkgs.sf.Depends","methods, R (>= 3.3.0)"
+"otherPkgs.sf.Imports","classInt (>= 0.4-1), DBI (>= 0.8), graphics, grDevices, grid,
+magrittr, Rcpp (>= 0.12.18), stats, tools, units (>= 0.6-0),
+utils"
+"otherPkgs.sf.Suggests","blob, covr, dplyr (>= 0.8-3), ggplot2, knitr, lwgeom (>=
+0.1-5), maps, maptools, mapview, microbenchmark, odbc, pillar,
+pool, raster, rgdal, rgeos, rlang, rmarkdown, RPostgres (>=
+1.1.0), RPostgreSQL, RSQLite, sp (>= 1.2-4), spatstat, stars
+(>= 0.2-0), testthat, tibble (>= 1.4.1), tidyr (>= 1.0-0), tmap
+(>= 2.0), vctrs"
+"otherPkgs.sf.LinkingTo","Rcpp"
+"otherPkgs.sf.VignetteBuilder","knitr"
+"otherPkgs.sf.Encoding","UTF-8"
+"otherPkgs.sf.RoxygenNote","6.1.1"
+"otherPkgs.sf.SystemRequirements","C++11, GDAL (>= 2.0.1), GEOS (>= 3.4.0), PROJ (>=
+4.8.0)"
+"otherPkgs.sf.Collate","'RcppExports.R' 'init.R' 'crs.R' 'bbox.R' 'read.R' 'db.R'
+'sfc.R' 'sfg.R' 'sf.R' 'bind.R' 'wkb.R' 'wkt.R' 'plot.R'
+'geom.R' 'transform.R' 'sp.R' 'grid.R' 'arith.R' 'tidyverse.R'
+'cast_sfg.R' 'cast_sfc.R' 'graticule.R' 'datasets.R'
+'aggregate.R' 'agr.R' 'maps.R' 'join.R' 'sample.R' 'valid.R'
+'collection_extract.R' 'jitter.R' 'sgbp.R' 'spatstat.R'
+'stars.R' 'crop.R' 'gdal_utils.R' 'nearest.R' 'normalize.R'
+'deprecated.R'"
+"otherPkgs.sf.NeedsCompilation","yes"
+"otherPkgs.sf.Packaged","2019-09-16 20:18:14 UTC; edzer"
+"otherPkgs.sf.Author","Edzer Pebesma [aut, cre] (<https://orcid.org/0000-0001-8049-7069>),
+  Roger Bivand [ctb] (<https://orcid.org/0000-0003-2392-6140>),
+  Etienne Racine [ctb],
+  Michael Sumner [ctb],
+  Ian Cook [ctb],
+  Tim Keitt [ctb],
+  Robin Lovelace [ctb],
+  Hadley Wickham [ctb],
+  Jeroen Ooms [ctb] (<https://orcid.org/0000-0002-4035-0289>),
+  Kirill Müller [ctb],
+  Thomas Lin Pedersen [ctb],
+  Dan Baston [ctb]"
+"otherPkgs.sf.Maintainer","Edzer Pebesma <edzer.pebesma@uni-muenster.de>"
+"otherPkgs.sf.Repository","CRAN"
+"otherPkgs.sf.Date/Publication","2019-09-17 04:40:03 UTC"
+"otherPkgs.sf.Built","R 3.6.1; x86_64-pc-linux-gnu; 2019-10-14 05:09:40 UTC; unix"
+"otherPkgs.multiscales.Package","multiscales"
+"otherPkgs.multiscales.Type","Package"
+"otherPkgs.multiscales.Title","Multivariate scales for 'ggplot2'"
+"otherPkgs.multiscales.Version","0.1.0"
+"otherPkgs.multiscales.Authors@R","c( 
+    person(""Claus O."", ""Wilke"", , ""wilke@austin.utexas.edu"", c(""cre"", ""aut"")))"
+"otherPkgs.multiscales.Description","Multivariate scales for 'ggplot2'. "
+"otherPkgs.multiscales.URL","https://github.com/clauswilke/multiscales"
+"otherPkgs.multiscales.Depends","R (>= 3.2)"
+"otherPkgs.multiscales.Imports","colorspace, digest, grid, gtable, ggplot2 (>= 2.2.1), purrr,
+plyr, rlang, tibble, scales, viridisLite, withr (>= 2.1.1)"
+"otherPkgs.multiscales.License","GPL-2 | file LICENSE"
+"otherPkgs.multiscales.LazyData","true"
+"otherPkgs.multiscales.Suggests","dplyr, MASS, knitr, rmarkdown, testthat, vdiffr"
+"otherPkgs.multiscales.VignetteBuilder","knitr"
+"otherPkgs.multiscales.Collate","'data.R' 'guide_colourbox.R' 'guide_colourfan.R'
+'multiscales.R' 'pal_bivariate.R' 'pal_hue_sat.R' 'pal_vsup.R'
+'range_bivariate.R' 'scale_bivariate.R' 'utilities_ggplot2.R'
+'zip.R'"
+"otherPkgs.multiscales.RoxygenNote","6.0.1.9000"
+"otherPkgs.multiscales.Roxygen","list(markdown = TRUE)"
+"otherPkgs.multiscales.RemoteType","github"
+"otherPkgs.multiscales.RemoteHost","api.github.com"
+"otherPkgs.multiscales.RemoteRepo","multiscales"
+"otherPkgs.multiscales.RemoteUsername","clauswilke"
+"otherPkgs.multiscales.RemoteRef","master"
+"otherPkgs.multiscales.RemoteSha","dcd001580ad483bcf22d5ff40aa1e16996091b95"
+"otherPkgs.multiscales.GithubRepo","multiscales"
+"otherPkgs.multiscales.GithubUsername","clauswilke"
+"otherPkgs.multiscales.GithubRef","master"
+"otherPkgs.multiscales.GithubSHA1","dcd001580ad483bcf22d5ff40aa1e16996091b95"
+"otherPkgs.multiscales.NeedsCompilation","no"
+"otherPkgs.multiscales.Packaged","2019-06-04 00:12:15 UTC; philipp"
+"otherPkgs.multiscales.Author","Claus O. Wilke [cre, aut]"
+"otherPkgs.multiscales.Maintainer","Claus O. Wilke <wilke@austin.utexas.edu>"
+"otherPkgs.multiscales.Built","R 3.6.0; ; 2019-06-04 00:12:16 UTC; unix"
+"otherPkgs.cowplot.Package","cowplot"
+"otherPkgs.cowplot.Title","Streamlined Plot Theme and Plot Annotations for 'ggplot2'"
+"otherPkgs.cowplot.Version","0.9.4"
+"otherPkgs.cowplot.Authors@R","c( person(""Claus O."", ""Wilke"", role = c(""aut"", ""cre""), email =
+    ""wilke@austin.utexas.edu""), person(""RStudio"", role = c(""cph""), comment = ""Copyright for ggplot2 code copied to cowplot"" ))"
+"otherPkgs.cowplot.Description","Some helpful extensions and modifications to the 'ggplot2'
+    package. In particular, this package makes it easy to combine multiple
+    'ggplot2' plots into one and label them with letters, e.g. A, B, C, etc.,
+    as is often required for scientific publications. The package also provides
+    a streamlined and clean theme that is used in the Wilke lab, hence the
+    package name, which stands for Claus O. Wilke's plot package."
+"otherPkgs.cowplot.URL","https://github.com/wilkelab/cowplot"
+"otherPkgs.cowplot.Depends","R (>= 3.3.0), ggplot2 (>= 2.1.0),"
+"otherPkgs.cowplot.Imports","grid (>= 3.0.0), gtable (>= 0.1.2), plyr (>= 1.8.2),
+grDevices, methods, scales, utils"
+"otherPkgs.cowplot.License","GPL-2"
+"otherPkgs.cowplot.LazyData","true"
+"otherPkgs.cowplot.Suggests","covr, gridGraphics, knitr, rmarkdown, magick, maps, dplyr,
+tidyr, testthat, vdiffr, viridis"
+"otherPkgs.cowplot.VignetteBuilder","knitr"
+"otherPkgs.cowplot.BugReports","https://github.com/wilkelab/cowplot/issues"
+"otherPkgs.cowplot.Collate","'add_sub.R' 'axis_canvas.R' 'cowplot.R' 'draw.R'
+'get_legend.R' 'get_panel.R' 'gtable.R' 'plot_grid.R'
+'plot_to_gtable.R' 'save.R' 'setup.R' 'switch_axis.R'
+'themes.R' 'utils_ggplot2.R'"
+"otherPkgs.cowplot.RoxygenNote","6.1.0"
+"otherPkgs.cowplot.NeedsCompilation","no"
+"otherPkgs.cowplot.Packaged","2019-01-07 23:10:34 UTC; wilke"
+"otherPkgs.cowplot.Author","Claus O. Wilke [aut, cre],
+  RStudio [cph] (Copyright for ggplot2 code copied to cowplot)"
+"otherPkgs.cowplot.Maintainer","Claus O. Wilke <wilke@austin.utexas.edu>"
+"otherPkgs.cowplot.Repository","CRAN"
+"otherPkgs.cowplot.Date/Publication","2019-01-08 05:50:03 UTC"
+"otherPkgs.cowplot.Built","R 3.6.0; ; 2019-04-30 05:47:49 UTC; unix"
+"otherPkgs.ggplot2.Package","ggplot2"
+"otherPkgs.ggplot2.Version","3.2.1"
+"otherPkgs.ggplot2.Title","Create Elegant Data Visualisations Using the Grammar of Graphics"
+"otherPkgs.ggplot2.Description","A system for 'declaratively' creating graphics,
+    based on ""The Grammar of Graphics"". You provide the data, tell 'ggplot2'
+    how to map variables to aesthetics, what graphical primitives to use,
+    and it takes care of the details."
+"otherPkgs.ggplot2.Authors@R","c(
+    person(""Hadley"", ""Wickham"", , ""hadley@rstudio.com"", c(""aut"", ""cre"")),
+    person(""Winston"", ""Chang"", , role = ""aut""),
+    person(""Lionel"", ""Henry"", , role = ""aut""),
+    person(""Thomas Lin"", ""Pedersen"", role = ""aut""),
+    person(""Kohske"", ""Takahashi"", role = ""aut""),
+    person(""Claus"", ""Wilke"", role = ""aut""),
+    person(""Kara"", ""Woo"", role = ""aut""),
+    person(""Hiroaki"", ""Yutani"", role = ""aut""),
+    person(""RStudio"", role = c(""cph""))
+    )"
+"otherPkgs.ggplot2.Depends","R (>= 3.2)"
+"otherPkgs.ggplot2.Imports","digest, grDevices, grid, gtable (>= 0.1.1), lazyeval, MASS,
+mgcv, reshape2, rlang (>= 0.3.0), scales (>= 0.5.0), stats,
+tibble, viridisLite, withr (>= 2.0.0)"
+"otherPkgs.ggplot2.Suggests","covr, dplyr, ggplot2movies, hexbin, Hmisc, knitr, lattice,
+mapproj, maps, maptools, multcomp, munsell, nlme, profvis,
+quantreg, rgeos, rmarkdown, rpart, sf (>= 0.7-3), svglite (>=
+1.2.0.9001), testthat (>= 0.11.0), vdiffr (>= 0.3.0)"
+"otherPkgs.ggplot2.Enhances","sp"
+"otherPkgs.ggplot2.License","GPL-2 | file LICENSE"
+"otherPkgs.ggplot2.URL","http://ggplot2.tidyverse.org, https://github.com/tidyverse/ggplot2"
+"otherPkgs.ggplot2.BugReports","https://github.com/tidyverse/ggplot2/issues"
+"otherPkgs.ggplot2.LazyData","true"
+"otherPkgs.ggplot2.Collate","'ggproto.r' 'ggplot-global.R' 'aaa-.r' 'aes-calculated.r'
+'aes-colour-fill-alpha.r' 'aes-group-order.r'
+'aes-linetype-size-shape.r' 'aes-position.r' 'compat-plyr.R'
+'utilities.r' 'aes.r' 'legend-draw.r' 'geom-.r'
+'annotation-custom.r' 'annotation-logticks.r' 'geom-polygon.r'
+'geom-map.r' 'annotation-map.r' 'geom-raster.r'
+'annotation-raster.r' 'annotation.r' 'autolayer.r' 'autoplot.r'
+'axis-secondary.R' 'backports.R' 'bench.r' 'bin.R' 'coord-.r'
+'coord-cartesian-.r' 'coord-fixed.r' 'coord-flip.r'
+'coord-map.r' 'coord-munch.r' 'coord-polar.r'
+'coord-quickmap.R' 'coord-sf.R' 'coord-transform.r' 'data.R'
+'facet-.r' 'facet-grid-.r' 'facet-null.r' 'facet-wrap.r'
+'fortify-lm.r' 'fortify-map.r' 'fortify-multcomp.r'
+'fortify-spatial.r' 'fortify.r' 'stat-.r' 'geom-abline.r'
+'geom-rect.r' 'geom-bar.r' 'geom-bin2d.r' 'geom-blank.r'
+'geom-boxplot.r' 'geom-col.r' 'geom-path.r' 'geom-contour.r'
+'geom-count.r' 'geom-crossbar.r' 'geom-segment.r'
+'geom-curve.r' 'geom-defaults.r' 'geom-ribbon.r'
+'geom-density.r' 'geom-density2d.r' 'geom-dotplot.r'
+'geom-errorbar.r' 'geom-errorbarh.r' 'geom-freqpoly.r'
+'geom-hex.r' 'geom-histogram.r' 'geom-hline.r' 'geom-jitter.r'
+'geom-label.R' 'geom-linerange.r' 'geom-point.r'
+'geom-pointrange.r' 'geom-quantile.r' 'geom-rug.r' 'geom-sf.R'
+'geom-smooth.r' 'geom-spoke.r' 'geom-text.r' 'geom-tile.r'
+'geom-violin.r' 'geom-vline.r' 'ggplot2.r' 'grob-absolute.r'
+'grob-dotstack.r' 'grob-null.r' 'grouping.r' 'guide-colorbar.r'
+'guide-legend.r' 'guides-.r' 'guides-axis.r' 'guides-grid.r'
+'hexbin.R' 'labeller.r' 'labels.r' 'layer.r' 'layer-sf.R'
+'layout.R' 'limits.r' 'margins.R' 'performance.R'
+'plot-build.r' 'plot-construction.r' 'plot-last.r' 'plot.r'
+'position-.r' 'position-collide.r' 'position-dodge.r'
+'position-dodge2.r' 'position-identity.r' 'position-jitter.r'
+'position-jitterdodge.R' 'position-nudge.R' 'position-stack.r'
+'quick-plot.r' 'range.r' 'save.r' 'scale-.r' 'scale-alpha.r'
+'scale-brewer.r' 'scale-colour.r' 'scale-continuous.r'
+'scale-date.r' 'scale-discrete-.r' 'scale-gradient.r'
+'scale-grey.r' 'scale-hue.r' 'scale-identity.r'
+'scale-linetype.r' 'scale-manual.r' 'scale-shape.r'
+'scale-size.r' 'scale-type.R' 'scale-viridis.r' 'scales-.r'
+'stat-bin.r' 'stat-bin2d.r' 'stat-bindot.r' 'stat-binhex.r'
+'stat-boxplot.r' 'stat-contour.r' 'stat-count.r'
+'stat-density-2d.r' 'stat-density.r' 'stat-ecdf.r'
+'stat-ellipse.R' 'stat-function.r' 'stat-identity.r'
+'stat-qq-line.R' 'stat-qq.r' 'stat-quantile.r'
+'stat-sf-coordinates.R' 'stat-sf.R' 'stat-smooth-methods.r'
+'stat-smooth.r' 'stat-sum.r' 'stat-summary-2d.r'
+'stat-summary-bin.R' 'stat-summary-hex.r' 'stat-summary.r'
+'stat-unique.r' 'stat-ydensity.r' 'summarise-plot.R'
+'summary.r' 'theme-elements.r' 'theme.r' 'theme-defaults.r'
+'theme-current.R' 'translate-qplot-ggplot.r'
+'translate-qplot-lattice.r' 'utilities-break.r'
+'utilities-grid.r' 'utilities-help.r' 'utilities-matrix.r'
+'utilities-resolution.r' 'utilities-table.r'
+'utilities-tidy-eval.R' 'zxx.r' 'zzz.r'"
+"otherPkgs.ggplot2.VignetteBuilder","knitr"
+"otherPkgs.ggplot2.RoxygenNote","6.1.1"
+"otherPkgs.ggplot2.Encoding","UTF-8"
+"otherPkgs.ggplot2.NeedsCompilation","no"
+"otherPkgs.ggplot2.Packaged","2019-08-09 20:11:46 UTC; thomas"
+"otherPkgs.ggplot2.Author","Hadley Wickham [aut, cre],
+  Winston Chang [aut],
+  Lionel Henry [aut],
+  Thomas Lin Pedersen [aut],
+  Kohske Takahashi [aut],
+  Claus Wilke [aut],
+  Kara Woo [aut],
+  Hiroaki Yutani [aut],
+  RStudio [cph]"
+"otherPkgs.ggplot2.Maintainer","Hadley Wickham <hadley@rstudio.com>"
+"otherPkgs.ggplot2.Repository","CRAN"
+"otherPkgs.ggplot2.Date/Publication","2019-08-10 22:30:13 UTC"
+"otherPkgs.ggplot2.Built","R 3.6.1; ; 2019-08-26 00:11:32 UTC; unix"
+"loadedOnly.Rcpp.Package","Rcpp"
+"loadedOnly.Rcpp.Title","Seamless R and C++ Integration"
+"loadedOnly.Rcpp.Version","1.0.2"
+"loadedOnly.Rcpp.Date","2019-07-20"
+"loadedOnly.Rcpp.Author","Dirk Eddelbuettel, Romain Francois, JJ Allaire, Kevin Ushey, Qiang Kou,
+ Nathan Russell, Douglas Bates and John Chambers"
+"loadedOnly.Rcpp.Maintainer","Dirk Eddelbuettel <edd@debian.org>"
+"loadedOnly.Rcpp.Description","The 'Rcpp' package provides R functions as well as C++ classes which
+ offer a seamless integration of R and C++. Many R data types and objects can be
+ mapped back and forth to C++ equivalents which facilitates both writing of new
+ code as well as easier integration of third-party libraries. Documentation
+ about 'Rcpp' is provided by several vignettes included in this package, via the
+ 'Rcpp Gallery' site at <http://gallery.rcpp.org>, the paper by Eddelbuettel and
+ Francois (2011, <doi:10.18637/jss.v040.i08>), the book by Eddelbuettel (2013,
+ <doi:10.1007/978-1-4614-6868-4>) and the paper by Eddelbuettel and Balamuta (2018,
+ <doi:10.1080/00031305.2017.1375990>); see 'citation(""Rcpp"")' for details."
+"loadedOnly.Rcpp.Depends","R (>= 3.0.0)"
+"loadedOnly.Rcpp.Imports","methods, utils"
+"loadedOnly.Rcpp.Suggests","RUnit, inline, rbenchmark, knitr, rmarkdown, pinp, pkgKitten
+(>= 0.1.2)"
+"loadedOnly.Rcpp.VignetteBuilder","knitr"
+"loadedOnly.Rcpp.URL","http://www.rcpp.org, http://dirk.eddelbuettel.com/code/rcpp.html,
+https://github.com/RcppCore/Rcpp"
+"loadedOnly.Rcpp.License","GPL (>= 2)"
+"loadedOnly.Rcpp.BugReports","https://github.com/RcppCore/Rcpp/issues"
+"loadedOnly.Rcpp.MailingList","Please send questions and comments regarding Rcpp to
+rcpp-devel@lists.r-forge.r-project.org"
+"loadedOnly.Rcpp.RoxygenNote","6.1.1"
+"loadedOnly.Rcpp.NeedsCompilation","yes"
+"loadedOnly.Rcpp.Packaged","2019-07-20 14:40:03.829344 UTC; edd"
+"loadedOnly.Rcpp.Repository","CRAN"
+"loadedOnly.Rcpp.Date/Publication","2019-07-25 10:10:04 UTC"
+"loadedOnly.Rcpp.Built","R 3.6.1; x86_64-pc-linux-gnu; 2019-08-26 00:05:33 UTC; unix"
+"loadedOnly.pillar.Package","pillar"
+"loadedOnly.pillar.Title","Coloured Formatting for Columns"
+"loadedOnly.pillar.Version","1.4.1"
+"loadedOnly.pillar.Authors@R","c(
+    person(""Kirill"", ""Müller"", , ""krlmlr+r@mailbox.org"", role = c(""aut"", ""cre"")),
+    person(""Hadley"", ""Wickham"", role = ""aut""),
+    person(""RStudio"", role = ""cph"")
+  )"
+"loadedOnly.pillar.Description","Provides 'pillar' and 'colonnade' generics designed for formatting columns
+   of data using the full range of colours provided by modern terminals."
+"loadedOnly.pillar.License","GPL-3"
+"loadedOnly.pillar.Encoding","UTF-8"
+"loadedOnly.pillar.LazyData","true"
+"loadedOnly.pillar.URL","https://github.com/r-lib/pillar"
+"loadedOnly.pillar.BugReports","https://github.com/r-lib/pillar/issues"
+"loadedOnly.pillar.Imports","cli, crayon (>= 1.3.4), fansi, rlang (>= 0.3.0), utf8 (>=
+1.1.0), vctrs"
+"loadedOnly.pillar.Suggests","knitr, lubridate, testthat, withr"
+"loadedOnly.pillar.RoxygenNote","6.1.1"
+"loadedOnly.pillar.Collate","'capital.R' 'compat-lifecycle.R' 'compat-purrr.R' 'dim.R'
+'empty-data.R' 'extent.R' 'lengths.R' 'multi.R' 'ornament.R'
+'pillar-package.R' 'pillar.R' 'rowid-capital.R' 'rowid-data.R'
+'rowid-title.R' 'rowid-type.R' 'scientific.R' 'shaft.R'
+'shaft-simple.R' 'sigfig.R' 'spark-bar.R' 'spark-line.R'
+'strrep.R' 'styles.R' 'testthat.R' 'tick.R' 'title.R'
+'type-sum.R' 'type.R' 'utils.R' 'vctrs.R' 'width.R' 'zzz.R'"
+"loadedOnly.pillar.NeedsCompilation","no"
+"loadedOnly.pillar.Packaged","2019-05-28 08:50:35 UTC; kirill"
+"loadedOnly.pillar.Author","Kirill Müller [aut, cre],
+  Hadley Wickham [aut],
+  RStudio [cph]"
+"loadedOnly.pillar.Maintainer","Kirill Müller <krlmlr+r@mailbox.org>"
+"loadedOnly.pillar.Repository","CRAN"
+"loadedOnly.pillar.Date/Publication","2019-05-28 09:40:03 UTC"
+"loadedOnly.pillar.Built","R 3.6.0; ; 2019-06-04 00:12:10 UTC; unix"
+"loadedOnly.compiler.Package","compiler"
+"loadedOnly.compiler.Version","3.6.1"
+"loadedOnly.compiler.Priority","base"
+"loadedOnly.compiler.Title","The R Compiler Package"
+"loadedOnly.compiler.Author","Luke Tierney <luke-tierney@uiowa.edu>"
+"loadedOnly.compiler.Maintainer","R Core Team <R-core@r-project.org>"
+"loadedOnly.compiler.Description","Byte code compiler for R."
+"loadedOnly.compiler.License","Part of R 3.6.1"
+"loadedOnly.compiler.Built","R 3.6.1; ; 2019-07-26 13:35:25 UTC; unix"
+"loadedOnly.class.Package","class"
+"loadedOnly.class.Priority","recommended"
+"loadedOnly.class.Version","7.3-15"
+"loadedOnly.class.Date","2019-01-01"
+"loadedOnly.class.Depends","R (>= 3.0.0), stats, utils"
+"loadedOnly.class.Imports","MASS"
+"loadedOnly.class.Authors@R","c(person(""Brian"", ""Ripley"", role = c(""aut"", ""cre"", ""cph""),
+                    email = ""ripley@stats.ox.ac.uk""),
+             person(""William"", ""Venables"", role = ""cph""))"
+"loadedOnly.class.Description","Various functions for classification, including k-nearest
+  neighbour, Learning Vector Quantization and Self-Organizing Maps."
+"loadedOnly.class.Title","Functions for Classification"
+"loadedOnly.class.ByteCompile","yes"
+"loadedOnly.class.License","GPL-2 | GPL-3"
+"loadedOnly.class.URL","http://www.stats.ox.ac.uk/pub/MASS4/"
+"loadedOnly.class.NeedsCompilation","yes"
+"loadedOnly.class.Packaged","2019-01-01 08:04:06 UTC; ripley"
+"loadedOnly.class.Author","Brian Ripley [aut, cre, cph],
+  William Venables [cph]"
+"loadedOnly.class.Maintainer","Brian Ripley <ripley@stats.ox.ac.uk>"
+"loadedOnly.class.Repository","CRAN"
+"loadedOnly.class.Date/Publication","2019-01-01 09:57:46 UTC"
+"loadedOnly.class.Built","R 3.6.0; x86_64-pc-linux-gnu; 2019-05-07 22:41:16 UTC; unix"
+"loadedOnly.tools.Package","tools"
+"loadedOnly.tools.Version","3.6.1"
+"loadedOnly.tools.Priority","base"
+"loadedOnly.tools.Title","Tools for Package Development"
+"loadedOnly.tools.Author","R Core Team"
+"loadedOnly.tools.Maintainer","R Core Team <R-core@r-project.org>"
+"loadedOnly.tools.Description","Tools for package development, administration and documentation."
+"loadedOnly.tools.License","Part of R 3.6.1"
+"loadedOnly.tools.Suggests","codetools, methods, xml2, curl, commonmark"
+"loadedOnly.tools.NeedsCompilation","yes"
+"loadedOnly.tools.Built","R 3.6.1; x86_64-pc-linux-gnu; 2019-07-26 13:35:24 UTC; unix"
+"loadedOnly.tibble.Package","tibble"
+"loadedOnly.tibble.Title","Simple Data Frames"
+"loadedOnly.tibble.Version","2.1.3"
+"loadedOnly.tibble.Authors@R","c(
+    person(""Kirill"", ""Müller"", , ""krlmlr+r@mailbox.org"", c(""aut"", ""cre"")),
+    person(""Hadley"", ""Wickham"", , ""hadley@rstudio.com"", ""aut""),
+    person(""Romain"", ""Francois"", , ""romain@r-enthusiasts.com"", ""ctb""),
+    person(""Jennifer"", ""Bryan"", , ""jenny@rstudio.com"", ""ctb""),
+    person(""RStudio"", role = ""cph"")
+    )"
+"loadedOnly.tibble.Description","Provides a 'tbl_df' class (the 'tibble') that provides
+    stricter checking and better formatting than the traditional data frame."
+"loadedOnly.tibble.License","MIT + file LICENSE"
+"loadedOnly.tibble.URL","http://tibble.tidyverse.org/, https://github.com/tidyverse/tibble"
+"loadedOnly.tibble.BugReports","https://github.com/tidyverse/tibble/issues"
+"loadedOnly.tibble.Depends","R (>= 3.1.0)"
+"loadedOnly.tibble.Imports","cli, crayon (>= 1.3.4), fansi (>= 0.4.0), methods, pillar (>=
+1.3.1), pkgconfig, rlang (>= 0.3.0), utils"
+"loadedOnly.tibble.Suggests","bench, covr, dplyr, htmltools, import, knitr, mockr,
+nycflights13, rmarkdown, testthat, withr"
+"loadedOnly.tibble.VignetteBuilder","knitr"
+"loadedOnly.tibble.Encoding","UTF-8"
+"loadedOnly.tibble.LazyData","yes"
+"loadedOnly.tibble.RoxygenNote","6.1.1"
+"loadedOnly.tibble.Collate","'add.R' 'as_tibble.R' 'check-names.R' 'compat-lazyeval.R'
+'compat-lifecycle.R' 'compat-name-repair.R' 'compat-purrr.R'
+'tribble.R' 'deprecated.R' 'enframe.R' 'exports.R' 'glimpse.R'
+'has-name.R' 'lst.R' 'msg-format.R' 'msg.R' 'new.R'
+'repair-names.R' 'rownames.R' 'strrep.R' 'subsetting.R'
+'tbl-df.r' 'tibble-package.R' 'tibble.R' 'type-sum.r'
+'utils-format.r' 'utils.r' 'view.R' 'wrap.R' 'zzz.R'"
+"loadedOnly.tibble.NeedsCompilation","yes"
+"loadedOnly.tibble.Packaged","2019-06-06 12:40:47 UTC; kirill"
+"loadedOnly.tibble.Author","Kirill Müller [aut, cre],
+  Hadley Wickham [aut],
+  Romain Francois [ctb],
+  Jennifer Bryan [ctb],
+  RStudio [cph]"
+"loadedOnly.tibble.Maintainer","Kirill Müller <krlmlr+r@mailbox.org>"
+"loadedOnly.tibble.Repository","CRAN"
+"loadedOnly.tibble.Date/Publication","2019-06-06 13:40:03 UTC"
+"loadedOnly.tibble.Built","R 3.6.1; x86_64-pc-linux-gnu; 2019-08-26 00:08:32 UTC; unix"
+"loadedOnly.gtable.Package","gtable"
+"loadedOnly.gtable.Title","Arrange 'Grobs' in Tables"
+"loadedOnly.gtable.Version","0.3.0"
+"loadedOnly.gtable.Authors@R","
+    c(person(given = ""Hadley"",
+             family = ""Wickham"",
+             role = c(""aut"", ""cre""),
+             email = ""hadley@rstudio.com""),
+      person(given = ""Thomas Lin"",
+             family = ""Pedersen"",
+             role = ""aut"",
+             email = ""thomas.pedersen@rstudio.com""),
+      person(given = ""RStudio"",
+             role = ""cph""))"
+"loadedOnly.gtable.Description","Tools to make it easier to work with ""tables"" of
+    'grobs'. The 'gtable' package defines a 'gtable' grob class that specifies a
+    grid along with a list of grobs and their placement in the grid. Further the
+    package makes it easy to manipulate and combine 'gtable' objects so that 
+    complex compositions can be build up sequentially."
+"loadedOnly.gtable.License","GPL-2"
+"loadedOnly.gtable.Depends","R (>= 3.0)"
+"loadedOnly.gtable.Imports","grid"
+"loadedOnly.gtable.Suggests","covr, testthat, knitr, rmarkdown, ggplot2, profvis"
+"loadedOnly.gtable.Encoding","UTF-8"
+"loadedOnly.gtable.RoxygenNote","6.1.1"
+"loadedOnly.gtable.Collate","'new-data-frame.r' 'add-grob.r' 'add-rows-cols.r'
+'add-space.r' 'grid.r' 'gtable-layouts.r' 'gtable-package.R'
+'gtable.r' 'rbind-cbind.r' 'utils.r' 'trim.r' 'filter.r'
+'align.r' 'padding.r' 'z.r'"
+"loadedOnly.gtable.URL","https://github.com/r-lib/gtable"
+"loadedOnly.gtable.BugReports","https://github.com/r-lib/gtable/issues"
+"loadedOnly.gtable.VignetteBuilder","knitr"
+"loadedOnly.gtable.NeedsCompilation","no"
+"loadedOnly.gtable.Packaged","2019-03-25 14:56:43 UTC; thomas"
+"loadedOnly.gtable.Author","Hadley Wickham [aut, cre],
+  Thomas Lin Pedersen [aut],
+  RStudio [cph]"
+"loadedOnly.gtable.Maintainer","Hadley Wickham <hadley@rstudio.com>"
+"loadedOnly.gtable.Repository","CRAN"
+"loadedOnly.gtable.Date/Publication","2019-03-25 19:50:02 UTC"
+"loadedOnly.gtable.Built","R 3.6.0; ; 2019-04-29 04:43:12 UTC; unix"
+"loadedOnly.lattice.Package","lattice"
+"loadedOnly.lattice.Version","0.20-38"
+"loadedOnly.lattice.Date","2018-11-01"
+"loadedOnly.lattice.Priority","recommended"
+"loadedOnly.lattice.Title","Trellis Graphics for R"
+"loadedOnly.lattice.Author","Deepayan Sarkar <deepayan.sarkar@r-project.org>"
+"loadedOnly.lattice.Maintainer","Deepayan Sarkar <deepayan.sarkar@r-project.org>"
+"loadedOnly.lattice.Description","A powerful and elegant high-level data visualization
+  system inspired by Trellis graphics, with an emphasis on
+  multivariate data. Lattice is sufficient for typical graphics needs,
+  and is also flexible enough to handle most nonstandard requirements.
+  See ?Lattice for an introduction."
+"loadedOnly.lattice.Depends","R (>= 3.0.0)"
+"loadedOnly.lattice.Suggests","KernSmooth, MASS, latticeExtra"
+"loadedOnly.lattice.Imports","grid, grDevices, graphics, stats, utils"
+"loadedOnly.lattice.Enhances","chron"
+"loadedOnly.lattice.LazyLoad","yes"
+"loadedOnly.lattice.LazyData","yes"
+"loadedOnly.lattice.License","GPL (>= 2)"
+"loadedOnly.lattice.URL","http://lattice.r-forge.r-project.org/"
+"loadedOnly.lattice.BugReports","https://github.com/deepayan/lattice/issues"
+"loadedOnly.lattice.NeedsCompilation","yes"
+"loadedOnly.lattice.Packaged","2018-11-04 11:39:05 UTC; deepayan"
+"loadedOnly.lattice.Repository","CRAN"
+"loadedOnly.lattice.Date/Publication","2018-11-04 12:50:03 UTC"
+"loadedOnly.lattice.Built","R 3.6.0; x86_64-pc-linux-gnu; 2019-04-29 04:43:00 UTC; unix"
+"loadedOnly.pkgconfig.Package","pkgconfig"
+"loadedOnly.pkgconfig.Title","Private Configuration for 'R' Packages"
+"loadedOnly.pkgconfig.Version","2.0.2"
+"loadedOnly.pkgconfig.Author","Gábor Csárdi"
+"loadedOnly.pkgconfig.Maintainer","Gábor Csárdi <csardi.gabor@gmail.com>"
+"loadedOnly.pkgconfig.Description","Set configuration options on a per-package basis.
+    Options set by a given package only apply to that package,
+    other packages are unaffected."
+"loadedOnly.pkgconfig.License","MIT + file LICENSE"
+"loadedOnly.pkgconfig.LazyData","true"
+"loadedOnly.pkgconfig.Imports","utils"
+"loadedOnly.pkgconfig.Suggests","covr, testthat, disposables (>= 1.0.3)"
+"loadedOnly.pkgconfig.URL","https://github.com/r-lib/pkgconfig#readme"
+"loadedOnly.pkgconfig.BugReports","https://github.com/r-lib/pkgconfig/issues"
+"loadedOnly.pkgconfig.Encoding","UTF-8"
+"loadedOnly.pkgconfig.NeedsCompilation","no"
+"loadedOnly.pkgconfig.Packaged","2018-08-16 08:36:36 UTC; gaborcsardi"
+"loadedOnly.pkgconfig.Repository","CRAN"
+"loadedOnly.pkgconfig.Date/Publication","2018-08-16 09:10:03 UTC"
+"loadedOnly.pkgconfig.Built","R 3.6.0; ; 2019-04-29 04:42:46 UTC; unix"
+"loadedOnly.rlang.Package","rlang"
+"loadedOnly.rlang.Version","0.4.0"
+"loadedOnly.rlang.Title","Functions for Base Types and Core R and 'Tidyverse' Features"
+"loadedOnly.rlang.Description","A toolbox for working with base types, core R features
+  like the condition system, and core 'Tidyverse' features like tidy
+  evaluation."
+"loadedOnly.rlang.Authors@R","c(
+    person(""Lionel"", ""Henry"", ,""lionel@rstudio.com"", c(""aut"", ""cre"")),
+    person(""Hadley"", ""Wickham"", ,""hadley@rstudio.com"", ""aut""),
+    person(""RStudio"", role = ""cph"")
+    )"
+"loadedOnly.rlang.License","GPL-3"
+"loadedOnly.rlang.LazyData","true"
+"loadedOnly.rlang.ByteCompile","true"
+"loadedOnly.rlang.Biarch","true"
+"loadedOnly.rlang.Depends","R (>= 3.2.0)"
+"loadedOnly.rlang.Suggests","covr, crayon, magrittr, methods, pillar, rmarkdown, testthat
+(>= 2.0.0)"
+"loadedOnly.rlang.Encoding","UTF-8"
+"loadedOnly.rlang.RoxygenNote","6.1.1"
+"loadedOnly.rlang.URL","http://rlang.r-lib.org, https://github.com/r-lib/rlang"
+"loadedOnly.rlang.BugReports","https://github.com/r-lib/rlang/issues"
+"loadedOnly.rlang.NeedsCompilation","yes"
+"loadedOnly.rlang.Packaged","2019-06-24 21:23:11 UTC; lionel"
+"loadedOnly.rlang.Author","Lionel Henry [aut, cre],
+  Hadley Wickham [aut],
+  RStudio [cph]"
+"loadedOnly.rlang.Maintainer","Lionel Henry <lionel@rstudio.com>"
+"loadedOnly.rlang.Repository","CRAN"
+"loadedOnly.rlang.Date/Publication","2019-06-25 07:50:03 UTC"
+"loadedOnly.rlang.Built","R 3.6.1; x86_64-pc-linux-gnu; 2019-08-26 00:06:06 UTC; unix"
+"loadedOnly.DBI.Package","DBI"
+"loadedOnly.DBI.Version","1.0.0"
+"loadedOnly.DBI.Date","2018-05-02"
+"loadedOnly.DBI.Title","R Database Interface"
+"loadedOnly.DBI.Description","A database interface definition for communication
+    between R and relational database management systems.  All
+    classes in this package are virtual and need to be extended by
+    the various R/DBMS implementations."
+"loadedOnly.DBI.Authors@R","c(
+    person(""R Special Interest Group on Databases (R-SIG-DB)"", role = ""aut""),
+    person(""Hadley"", ""Wickham"", role = ""aut""),
+    person(""Kirill"", ""M\u00fcller"", role = c(""aut"", ""cre""), email = ""krlmlr+r@mailbox.org"", comment = c(ORCID = ""0000-0002-1416-3412"")),
+    person(""R Consortium"", role = ""fnd"")
+    )"
+"loadedOnly.DBI.Depends","R (>= 3.0.0), methods"
+"loadedOnly.DBI.Suggests","blob, covr, hms, knitr, magrittr, rprojroot, rmarkdown,
+RSQLite (>= 1.1-2), testthat, xml2"
+"loadedOnly.DBI.Encoding","UTF-8"
+"loadedOnly.DBI.License","LGPL (>= 2)"
+"loadedOnly.DBI.URL","http://r-dbi.github.io/DBI"
+"loadedOnly.DBI.URLNote","https://github.com/r-dbi/DBI"
+"loadedOnly.DBI.BugReports","https://github.com/r-dbi/DBI/issues"
+"loadedOnly.DBI.Collate","'hidden.R' 'DBObject.R' 'DBDriver.R' 'table.R'
+'DBConnection.R' 'ANSI.R' 'DBI-package.R' 'DBResult.R'
+'data-types.R' 'data.R' 'deprecated.R' 'interpolate.R'
+'list-pairs.R' 'quote.R' 'rd.R' 'rownames.R' 'table-create.R'
+'table-insert.R' 'transactions.R'"
+"loadedOnly.DBI.VignetteBuilder","knitr"
+"loadedOnly.DBI.RoxygenNote","6.0.1.9000"
+"loadedOnly.DBI.NeedsCompilation","no"
+"loadedOnly.DBI.Packaged","2018-05-02 00:38:32 UTC; kirill"
+"loadedOnly.DBI.Author","R Special Interest Group on Databases (R-SIG-DB) [aut],
+  Hadley Wickham [aut],
+  Kirill Müller [aut, cre] (<https://orcid.org/0000-0002-1416-3412>),
+  R Consortium [fnd]"
+"loadedOnly.DBI.Maintainer","Kirill Müller <krlmlr+r@mailbox.org>"
+"loadedOnly.DBI.Repository","CRAN"
+"loadedOnly.DBI.Date/Publication","2018-05-02 11:24:41 UTC"
+"loadedOnly.DBI.Built","R 3.6.0; ; 2019-05-07 22:31:00 UTC; unix"
+"loadedOnly.rgdal.Package","rgdal"
+"loadedOnly.rgdal.Title","Bindings for the 'Geospatial' Data Abstraction Library"
+"loadedOnly.rgdal.Version","1.4-6"
+"loadedOnly.rgdal.Date","2019-10-01"
+"loadedOnly.rgdal.Depends","R (>= 3.5.0), methods, sp (>= 1.1-0)"
+"loadedOnly.rgdal.Imports","grDevices, graphics, stats, utils"
+"loadedOnly.rgdal.LinkingTo","sp"
+"loadedOnly.rgdal.NeedsCompilation","yes"
+"loadedOnly.rgdal.Description","Provides bindings to the 'Geospatial' Data Abstraction Library ('GDAL') (>= 1.11.4) and access to projection/transformation operations from the 'PROJ.4' library. The 'GDAL' and 'PROJ.4' libraries are external to the package, and, when installing the package from source, must be correctly installed first. From 'rgdal' 1.4.1, provision is made for 'PROJ6' accommodation, with 'PROJ6' functionality to follow; from 1.4.1 'rgdal' will build and function when 'PROJ' >= 6. Both 'GDAL' raster and 'OGR' vector map data can be imported into R, and 'GDAL' raster data and 'OGR' vector data exported. Use is made of classes defined in the 'sp' package. Windows and Mac Intel OS X binaries (including 'GDAL', 'PROJ.4' and 'Expat') are provided on 'CRAN'. "
+"loadedOnly.rgdal.Authors@R","c(
+	person(""Roger"", ""Bivand"", role = c(""cre"", ""aut""), email = ""Roger.Bivand@nhh.no"", comment=c(ORCID=""0000-0003-2392-6140"")),
+	person(""Tim"", ""Keitt"", role = ""aut""),
+	person(""Barry"", ""Rowlingson"", role = c(""aut"", ""ctb"")),
+	person(""Edzer"", ""Pebesma"", role = ""ctb""),
+	person(""Michael"", ""Sumner"", role = ""ctb""),
+	person(""Robert"", ""Hijmans"", role = ""ctb""),
+	person(""Even"", ""Rouault"", role = c(""cph"", ""ctb"")),
+	person(""Frank"", ""Warmerdam"", role = c(""cph"", ""ctb"")),
+	person(""Jeroen"", ""Ooms"", role = ""ctb""),
+	person(""Colin"", ""Rundel"", role = ""ctb""))"
+"loadedOnly.rgdal.License","GPL (>= 2)"
+"loadedOnly.rgdal.URL","http://rgdal.r-forge.r-project.org, https://www.gdal.org,
+https://proj.org, https://r-forge.r-project.org/projects/rgdal/"
+"loadedOnly.rgdal.SystemRequirements","for building from source: GDAL >= 1.11.4, library
+from https://trac.osgeo.org/gdal/wiki/DownloadSource and PROJ.4
+(proj >= 4.8.0) from https://download.osgeo.org/proj/; GDAL OSX
+frameworks built by William Kyngesburye at
+http://www.kyngchaos.com/ may be used for source installs on
+OSX. For installation with older external dependencies,
+override configure checks with
+--configure-args=""enable-deprecated=yes"". Consider source
+installations using archived versions of rgdal contemporary
+with installed external dependencies, for example rgdal_0.8-7
+for PROJ4 4.8.0 (March 2012)."
+"loadedOnly.rgdal.RoxygenNote","6.1.1"
+"loadedOnly.rgdal.Packaged","2019-10-01 12:01:15 UTC; rsb"
+"loadedOnly.rgdal.Author","Roger Bivand [cre, aut] (<https://orcid.org/0000-0003-2392-6140>),
+  Tim Keitt [aut],
+  Barry Rowlingson [aut, ctb],
+  Edzer Pebesma [ctb],
+  Michael Sumner [ctb],
+  Robert Hijmans [ctb],
+  Even Rouault [cph, ctb],
+  Frank Warmerdam [cph, ctb],
+  Jeroen Ooms [ctb],
+  Colin Rundel [ctb]"
+"loadedOnly.rgdal.Maintainer","Roger Bivand <Roger.Bivand@nhh.no>"
+"loadedOnly.rgdal.Repository","CRAN"
+"loadedOnly.rgdal.Date/Publication","2019-10-01 19:30:02 UTC"
+"loadedOnly.rgdal.Built","R 3.6.1; x86_64-pc-linux-gnu; 2019-10-14 05:09:11 UTC; unix"
+"loadedOnly.gridExtra.Package","gridExtra"
+"loadedOnly.gridExtra.Authors@R","c(person(""Baptiste"", ""Auguie"",
+    email = ""baptiste.auguie@gmail.com"",
+    role = c(""aut"", ""cre"")), person(""Anton"", ""Antonov"",
+    email = ""tonytonov@gmail.com"",
+    role = c(""ctb"")))"
+"loadedOnly.gridExtra.License","GPL (>= 2)"
+"loadedOnly.gridExtra.Title","Miscellaneous Functions for ""Grid"" Graphics"
+"loadedOnly.gridExtra.Type","Package"
+"loadedOnly.gridExtra.Description","Provides a number of user-level functions to work with ""grid""
+    graphics, notably to arrange multiple grid-based plots on a page, and draw
+    tables."
+"loadedOnly.gridExtra.Version","2.3"
+"loadedOnly.gridExtra.VignetteBuilder","knitr"
+"loadedOnly.gridExtra.Imports","gtable, grid, grDevices, graphics, utils"
+"loadedOnly.gridExtra.Suggests","ggplot2, egg, lattice, knitr, testthat"
+"loadedOnly.gridExtra.RoxygenNote","6.0.1"
+"loadedOnly.gridExtra.NeedsCompilation","no"
+"loadedOnly.gridExtra.Packaged","2017-09-08 22:52:09 UTC; baptiste"
+"loadedOnly.gridExtra.Author","Baptiste Auguie [aut, cre],
+  Anton Antonov [ctb]"
+"loadedOnly.gridExtra.Maintainer","Baptiste Auguie <baptiste.auguie@gmail.com>"
+"loadedOnly.gridExtra.Repository","CRAN"
+"loadedOnly.gridExtra.Date/Publication","2017-09-09 14:12:08 UTC"
+"loadedOnly.gridExtra.Built","R 3.6.0; ; 2019-04-29 04:47:24 UTC; unix"
+"loadedOnly.e1071.Package","e1071"
+"loadedOnly.e1071.Version","1.7-2"
+"loadedOnly.e1071.Title","Misc Functions of the Department of Statistics, Probability
+Theory Group (Formerly: E1071), TU Wien"
+"loadedOnly.e1071.Imports","graphics, grDevices, class, stats, methods, utils"
+"loadedOnly.e1071.Suggests","cluster, mlbench, nnet, randomForest, rpart, SparseM, xtable,
+Matrix, MASS, slam"
+"loadedOnly.e1071.Authors@R","c(person(given = ""David"", family = ""Meyer"", role = c(""aut"", ""cre""), email = ""David.Meyer@R-project.org""),
+             person(given = ""Evgenia"", family = ""Dimitriadou"", role = c(""aut"",""cph"")),
+             person(given = ""Kurt"", family = ""Hornik"", role = ""aut""),
+             person(given = ""Andreas"", family = ""Weingessel"", role = ""aut""),
+             person(given = ""Friedrich"", family = ""Leisch"", role = ""aut""),
+             person(given = ""Chih-Chung"", family = ""Chang"", role = c(""ctb"",""cph""), comment = ""libsvm C++-code""),
+             person(given = ""Chih-Chen"", family = ""Lin"", role = c(""ctb"",""cph""), comment = ""libsvm C++-code""))"
+"loadedOnly.e1071.Description","Functions for latent class analysis, short time Fourier
+	     transform, fuzzy clustering, support vector machines,
+	     shortest path computation, bagged clustering, naive Bayes
+	     classifier, ..."
+"loadedOnly.e1071.License","GPL-2 | GPL-3"
+"loadedOnly.e1071.LazyLoad","yes"
+"loadedOnly.e1071.NeedsCompilation","yes"
+"loadedOnly.e1071.Packaged","2019-06-04 09:05:01 UTC; meyer"
+"loadedOnly.e1071.Author","David Meyer [aut, cre],
+  Evgenia Dimitriadou [aut, cph],
+  Kurt Hornik [aut],
+  Andreas Weingessel [aut],
+  Friedrich Leisch [aut],
+  Chih-Chung Chang [ctb, cph] (libsvm C++-code),
+  Chih-Chen Lin [ctb, cph] (libsvm C++-code)"
+"loadedOnly.e1071.Maintainer","David Meyer <David.Meyer@R-project.org>"
+"loadedOnly.e1071.Repository","CRAN"
+"loadedOnly.e1071.Date/Publication","2019-06-05 08:20:27 UTC"
+"loadedOnly.e1071.Built","R 3.6.1; x86_64-pc-linux-gnu; 2019-07-11 02:11:33 UTC; unix"
+"loadedOnly.withr.Encoding","UTF-8"
+"loadedOnly.withr.Package","withr"
+"loadedOnly.withr.Title","Run Code 'With' Temporarily Modified Global State"
+"loadedOnly.withr.Version","2.1.2"
+"loadedOnly.withr.Authors@R","c(
+    person(""Jim"", ""Hester"", , ""james.f.hester@gmail.com"", role = c(""aut"", ""cre"")),
+    person(""Kirill"", ""Müller"", , ""krlmlr+r@mailbox.org"", role = ""aut""),
+    person(""Kevin"", ""Ushey"", email = ""kevinushey@gmail.com"", role = c(""aut"")),
+    person(""Hadley"", ""Wickham"", , ""hadley@rstudio.com"", role = ""aut""),
+    person(""Winston"", ""Chang"", role = ""aut""),
+    person(""Richard"", ""Cotton"", role = c(""ctb"")),
+    person(""RStudio"", role = ""cph""))"
+"loadedOnly.withr.Description","A set of functions to run code 'with' safely and temporarily
+    modified global state. Many of these functions were originally a part of the
+    'devtools' package, this provides a simple package with limited dependencies
+    to provide access to these functions."
+"loadedOnly.withr.URL","http://withr.r-lib.org, http://github.com/r-lib/withr#readme"
+"loadedOnly.withr.BugReports","http://github.com/r-lib/withr/issues"
+"loadedOnly.withr.Depends","R (>= 3.0.2)"
+"loadedOnly.withr.License","GPL (>= 2)"
+"loadedOnly.withr.LazyData","true"
+"loadedOnly.withr.Imports","stats, graphics, grDevices"
+"loadedOnly.withr.Suggests","testthat, covr, lattice, DBI, RSQLite, methods, knitr,
+rmarkdown"
+"loadedOnly.withr.RoxygenNote","6.0.1"
+"loadedOnly.withr.Collate","'local_.R' 'with_.R' 'collate.R' 'connection.R' 'db.R'
+'defer.R' 'wrap.R' 'devices.R' 'dir.R' 'env.R' 'file.R'
+'libpaths.R' 'locale.R' 'makevars.R' 'namespace.R' 'options.R'
+'par.R' 'path.R' 'seed.R' 'sink.R' 'tempfile.R' 'torture.R'
+'utils.R' 'with.R'"
+"loadedOnly.withr.VignetteBuilder","knitr"
+"loadedOnly.withr.NeedsCompilation","no"
+"loadedOnly.withr.Packaged","2018-03-15 13:59:37 UTC; jhester"
+"loadedOnly.withr.Author","Jim Hester [aut, cre],
+  Kirill Müller [aut],
+  Kevin Ushey [aut],
+  Hadley Wickham [aut],
+  Winston Chang [aut],
+  Richard Cotton [ctb],
+  RStudio [cph]"
+"loadedOnly.withr.Maintainer","Jim Hester <james.f.hester@gmail.com>"
+"loadedOnly.withr.Repository","CRAN"
+"loadedOnly.withr.Date/Publication","2018-03-15 22:39:56 UTC"
+"loadedOnly.withr.Built","R 3.6.0; ; 2019-04-29 04:43:31 UTC; unix"
+"loadedOnly.dplyr.Type","Package"
+"loadedOnly.dplyr.Package","dplyr"
+"loadedOnly.dplyr.Title","A Grammar of Data Manipulation"
+"loadedOnly.dplyr.Version","0.8.3"
+"loadedOnly.dplyr.Authors@R","c(
+    person(""Hadley"", ""Wickham"", , ""hadley@rstudio.com"", c(""aut"", ""cre""), comment = c(ORCID = ""0000-0003-4757-117X"")),
+    person(""Romain"", ""Fran\u00e7ois"", role = ""aut"", comment = c(ORCID = ""0000-0002-2444-4226"")),
+    person(""Lionel"", ""Henry"", role = ""aut""),
+    person(""Kirill"", ""M\u00fcller"", role = ""aut"", comment = c(ORCID = ""0000-0002-1416-3412"")),
+    person(""RStudio"", role = c(""cph"", ""fnd""))
+    )"
+"loadedOnly.dplyr.Description","A fast, consistent tool for working with data frame like objects,
+    both in memory and out of memory."
+"loadedOnly.dplyr.License","MIT + file LICENSE"
+"loadedOnly.dplyr.URL","http://dplyr.tidyverse.org, https://github.com/tidyverse/dplyr"
+"loadedOnly.dplyr.BugReports","https://github.com/tidyverse/dplyr/issues"
+"loadedOnly.dplyr.Depends","R (>= 3.2.0)"
+"loadedOnly.dplyr.Imports","assertthat (>= 0.2.0), glue (>= 1.3.0), magrittr (>= 1.5),
+methods, pkgconfig, R6, Rcpp (>= 1.0.1), rlang (>= 0.4.0),
+tibble (>= 2.0.0), tidyselect (>= 0.2.5), utils"
+"loadedOnly.dplyr.Suggests","bit64, callr, covr, crayon (>= 1.3.4), DBI, dbplyr, dtplyr,
+ggplot2, hms, knitr, Lahman, lubridate, MASS, mgcv,
+microbenchmark, nycflights13, rmarkdown, RMySQL, RPostgreSQL,
+RSQLite, testthat, withr, broom, purrr, readr"
+"loadedOnly.dplyr.LinkingTo","BH, plogr (>= 0.2.0), Rcpp (>= 1.0.1)"
+"loadedOnly.dplyr.VignetteBuilder","knitr"
+"loadedOnly.dplyr.Encoding","UTF-8"
+"loadedOnly.dplyr.LazyData","yes"
+"loadedOnly.dplyr.RoxygenNote","6.1.1"
+"loadedOnly.dplyr.NeedsCompilation","yes"
+"loadedOnly.dplyr.Packaged","2019-07-04 05:04:15 UTC; romainfrancois"
+"loadedOnly.dplyr.Author","Hadley Wickham [aut, cre] (<https://orcid.org/0000-0003-4757-117X>),
+  Romain François [aut] (<https://orcid.org/0000-0002-2444-4226>),
+  Lionel Henry [aut],
+  Kirill Müller [aut] (<https://orcid.org/0000-0002-1416-3412>),
+  RStudio [cph, fnd]"
+"loadedOnly.dplyr.Maintainer","Hadley Wickham <hadley@rstudio.com>"
+"loadedOnly.dplyr.Repository","CRAN"
+"loadedOnly.dplyr.Date/Publication","2019-07-04 15:50:02 UTC"
+"loadedOnly.dplyr.Built","R 3.6.1; x86_64-pc-linux-gnu; 2019-08-26 00:08:47 UTC; unix"
+"loadedOnly.rgeos.Package","rgeos"
+"loadedOnly.rgeos.Title","Interface to Geometry Engine - Open Source ('GEOS')"
+"loadedOnly.rgeos.Version","0.5-2"
+"loadedOnly.rgeos.Date","2019-10-02"
+"loadedOnly.rgeos.Depends","R (>= 3.3.0), methods, sp (>= 1.1-0)"
+"loadedOnly.rgeos.Imports","utils, stats, graphics"
+"loadedOnly.rgeos.LinkingTo","sp"
+"loadedOnly.rgeos.Suggests","maptools (>= 0.8-5), testthat, XML, maps, rgdal"
+"loadedOnly.rgeos.NeedsCompilation","yes"
+"loadedOnly.rgeos.LazyLoad","yes"
+"loadedOnly.rgeos.Description","Interface to Geometry Engine - Open Source ('GEOS') using the C 'API' for topology operations on geometries. The 'GEOS' library is external to the package, and, when installing the package from source, must be correctly installed first. Windows and Mac Intel OS X binaries are provided on 'CRAN'. ('rgeos' >= 0.5-1): Up to and including 'GEOS' 3.7.1, topological operations succeeded with some invalid geometries for which the same operations fail from and including 'GEOS' 3.7.2. The 'checkValidity=' argument defaults and structure have been changed, from default FALSE to integer default '0L' for 'GEOS' < 3.7.2 (no check), '1L' 'GEOS' >= 3.7.2 (check and warn). A value of '2L' is also provided that may be used, assigned globally using 'set_RGEOS_CheckValidity(2L)', or locally using the 'checkValidity=2L' argument, to attempt zero-width buffer repair if invalid geometries are found. The previous default (FALSE, now '0L') is fastest and used for 'GEOS' < 3.7.2, but will not warn users of possible problems before the failure of topological operations that previously succeeded."
+"loadedOnly.rgeos.Authors@R","c(
+	person(""Roger"", ""Bivand"", role = c(""cre"", ""aut""), email = ""Roger.Bivand@nhh.no"", comment=c(ORCID=""0000-0003-2392-6140"")),
+	person(""Colin"", ""Rundel"", role = ""aut""),
+	person(""Edzer"", ""Pebesma"", role = ""ctb""),
+	person(""Rainer"", ""Stuetz"", role = ""ctb""),
+	person(""Karl Ove"", ""Hufthammer"", role = ""ctb""),
+        person(""Patrick"", ""Giraudoux"", role = ""ctb""),
+        person(""Martin"", ""Davis"", role = c(""cph"", ""ctb"")),
+        person(""Sandro"", ""Santilli"", role = c(""cph"", ""ctb"")))"
+"loadedOnly.rgeos.License","GPL (>= 2)"
+"loadedOnly.rgeos.URL","https://r-forge.r-project.org/projects/rgeos/
+https://trac.osgeo.org/geos/
+http://rgeos.r-forge.r-project.org/index.html"
+"loadedOnly.rgeos.SystemRequirements","GEOS (>= 3.2.0); for building from source: GEOS
+from http://trac.osgeo.org/geos/; GEOS OSX frameworks built by
+William Kyngesburye at http://www.kyngchaos.com/ may be used
+for source installs on OSX."
+"loadedOnly.rgeos.RoxygenNote","6.1.1"
+"loadedOnly.rgeos.Packaged","2019-10-03 07:49:27 UTC; rsb"
+"loadedOnly.rgeos.Author","Roger Bivand [cre, aut] (<https://orcid.org/0000-0003-2392-6140>),
+  Colin Rundel [aut],
+  Edzer Pebesma [ctb],
+  Rainer Stuetz [ctb],
+  Karl Ove Hufthammer [ctb],
+  Patrick Giraudoux [ctb],
+  Martin Davis [cph, ctb],
+  Sandro Santilli [cph, ctb]"
+"loadedOnly.rgeos.Maintainer","Roger Bivand <Roger.Bivand@nhh.no>"
+"loadedOnly.rgeos.Repository","CRAN"
+"loadedOnly.rgeos.Date/Publication","2019-10-03 09:50:02 UTC"
+"loadedOnly.rgeos.Built","R 3.6.1; x86_64-pc-linux-gnu; 2019-10-14 05:09:26 UTC; unix"
+"loadedOnly.classInt.Package","classInt"
+"loadedOnly.classInt.Version","0.4-1"
+"loadedOnly.classInt.Date","2019-07-22"
+"loadedOnly.classInt.Title","Choose Univariate Class Intervals"
+"loadedOnly.classInt.Authors@R","c(person(""Roger"", ""Bivand"", role=c(""aut"", ""cre""), email=""Roger.Bivand@nhh.no"", comment=c(ORCID=""0000-0003-2392-6140"")), person(""Hisaji"", ""Ono"", role=""ctb""), person(""Richard"", ""Dunlap"", role=""ctb""), person(""Matthieu"", ""Stigler"", role=""ctb""))"
+"loadedOnly.classInt.Depends","R (>= 2.2)"
+"loadedOnly.classInt.Imports","grDevices, stats, graphics, e1071, class, KernSmooth"
+"loadedOnly.classInt.Suggests","spData (>= 0.2.6.2), units"
+"loadedOnly.classInt.NeedsCompilation","yes"
+"loadedOnly.classInt.Description","Selected commonly used methods for choosing univariate class intervals for mapping or other graphics purposes."
+"loadedOnly.classInt.License","GPL (>= 2)"
+"loadedOnly.classInt.URL","https://github.com/r-spatial/classInt/"
+"loadedOnly.classInt.BugReports","https://github.com/r-spatial/classInt/issues/"
+"loadedOnly.classInt.RoxygenNote","6.1.1"
+"loadedOnly.classInt.Packaged","2019-08-06 07:15:26 UTC; rsb"
+"loadedOnly.classInt.Author","Roger Bivand [aut, cre] (<https://orcid.org/0000-0003-2392-6140>),
+  Hisaji Ono [ctb],
+  Richard Dunlap [ctb],
+  Matthieu Stigler [ctb]"
+"loadedOnly.classInt.Maintainer","Roger Bivand <Roger.Bivand@nhh.no>"
+"loadedOnly.classInt.Repository","CRAN"
+"loadedOnly.classInt.Date/Publication","2019-08-06 09:00:05 UTC"
+"loadedOnly.classInt.Built","R 3.6.1; x86_64-pc-linux-gnu; 2019-10-14 05:09:06 UTC; unix"
+"loadedOnly.grid.Package","grid"
+"loadedOnly.grid.Version","3.6.1"
+"loadedOnly.grid.Priority","base"
+"loadedOnly.grid.Title","The Grid Graphics Package"
+"loadedOnly.grid.Author","Paul Murrell <paul@stat.auckland.ac.nz>"
+"loadedOnly.grid.Maintainer","R Core Team <R-core@r-project.org>"
+"loadedOnly.grid.Description","A rewrite of the graphics layout capabilities, plus some
+  support for interaction."
+"loadedOnly.grid.Imports","grDevices, utils"
+"loadedOnly.grid.Suggests","lattice"
+"loadedOnly.grid.License","Part of R 3.6.1"
+"loadedOnly.grid.NeedsCompilation","yes"
+"loadedOnly.grid.Built","R 3.6.1; x86_64-pc-linux-gnu; 2019-07-26 13:35:28 UTC; unix"
+"loadedOnly.tidyselect.Package","tidyselect"
+"loadedOnly.tidyselect.Title","Select from a Set of Strings"
+"loadedOnly.tidyselect.Version","0.2.5"
+"loadedOnly.tidyselect.Authors@R","c(
+    person(""Lionel"", ""Henry"", ,""lionel@rstudio.com"", c(""aut"", ""cre"")),
+    person(""Hadley"", ""Wickham"", ,""hadley@rstudio.com"", ""aut""),
+    person(""RStudio"", role = ""cph"")
+    )"
+"loadedOnly.tidyselect.Description","A backend for the selecting functions of the 'tidyverse'.
+    It makes it easy to implement select-like functions in your own
+    packages in a way that is consistent with other 'tidyverse'
+    interfaces for selection."
+"loadedOnly.tidyselect.Depends","R (>= 3.1)"
+"loadedOnly.tidyselect.Imports","glue (>= 1.3.0), purrr, rlang (>= 0.2.2), Rcpp (>= 0.12.0)"
+"loadedOnly.tidyselect.Suggests","covr, dplyr, testthat"
+"loadedOnly.tidyselect.LinkingTo","Rcpp (>= 0.12.0),"
+"loadedOnly.tidyselect.License","GPL-3"
+"loadedOnly.tidyselect.Encoding","UTF-8"
+"loadedOnly.tidyselect.LazyData","true"
+"loadedOnly.tidyselect.ByteCompile","true"
+"loadedOnly.tidyselect.RoxygenNote","6.1.0"
+"loadedOnly.tidyselect.NeedsCompilation","yes"
+"loadedOnly.tidyselect.Packaged","2018-10-11 12:25:22 UTC; lionel"
+"loadedOnly.tidyselect.Author","Lionel Henry [aut, cre],
+  Hadley Wickham [aut],
+  RStudio [cph]"
+"loadedOnly.tidyselect.Maintainer","Lionel Henry <lionel@rstudio.com>"
+"loadedOnly.tidyselect.Repository","CRAN"
+"loadedOnly.tidyselect.Date/Publication","2018-10-11 13:00:03 UTC"
+"loadedOnly.tidyselect.Built","R 3.6.0; x86_64-pc-linux-gnu; 2019-04-29 04:55:00 UTC; unix"
+"loadedOnly.glue.Package","glue"
+"loadedOnly.glue.Title","Interpreted String Literals"
+"loadedOnly.glue.Version","1.3.1"
+"loadedOnly.glue.Authors@R","person(""Jim"", ""Hester"", email = ""james.f.hester@gmail.com"", role = c(""aut"", ""cre""))"
+"loadedOnly.glue.Description","An implementation of interpreted string literals, inspired by
+  Python's Literal String Interpolation <https://www.python.org/dev/peps/pep-0498/> and Docstrings
+  <https://www.python.org/dev/peps/pep-0257/> and Julia's Triple-Quoted String Literals
+  <https://docs.julialang.org/en/stable/manual/strings/#triple-quoted-string-literals>."
+"loadedOnly.glue.Depends","R (>= 3.1)"
+"loadedOnly.glue.Imports","methods"
+"loadedOnly.glue.Suggests","testthat, covr, magrittr, crayon, knitr, rmarkdown, DBI,
+RSQLite, R.utils, forcats, microbenchmark, rprintf, stringr,
+ggplot2, dplyr, withr"
+"loadedOnly.glue.License","MIT + file LICENSE"
+"loadedOnly.glue.Encoding","UTF-8"
+"loadedOnly.glue.LazyData","true"
+"loadedOnly.glue.RoxygenNote","6.1.1"
+"loadedOnly.glue.URL","https://github.com/tidyverse/glue"
+"loadedOnly.glue.BugReports","https://github.com/tidyverse/glue/issues"
+"loadedOnly.glue.VignetteBuilder","knitr"
+"loadedOnly.glue.ByteCompile","true"
+"loadedOnly.glue.NeedsCompilation","yes"
+"loadedOnly.glue.Packaged","2019-03-11 21:03:11 UTC; jhester"
+"loadedOnly.glue.Author","Jim Hester [aut, cre]"
+"loadedOnly.glue.Maintainer","Jim Hester <james.f.hester@gmail.com>"
+"loadedOnly.glue.Repository","CRAN"
+"loadedOnly.glue.Date/Publication","2019-03-12 22:30:02 UTC"
+"loadedOnly.glue.Built","R 3.6.0; x86_64-pc-linux-gnu; 2019-04-29 04:41:10 UTC; unix"
+"loadedOnly.R6.Package","R6"
+"loadedOnly.R6.Title","Encapsulated Classes with Reference Semantics"
+"loadedOnly.R6.Version","2.4.0"
+"loadedOnly.R6.Authors@R","person(""Winston"", ""Chang"", role = c(""aut"", ""cre""), email = ""winston@stdout.org"")"
+"loadedOnly.R6.Description","Creates classes with reference semantics, similar to R's built-in
+    reference classes. Compared to reference classes, R6 classes are simpler
+    and lighter-weight, and they are not built on S4 classes so they do not
+    require the methods package. These classes allow public and private
+    members, and they support inheritance, even when the classes are defined in
+    different packages."
+"loadedOnly.R6.Depends","R (>= 3.0)"
+"loadedOnly.R6.Suggests","knitr, microbenchmark, pryr, testthat, ggplot2, scales"
+"loadedOnly.R6.License","MIT + file LICENSE"
+"loadedOnly.R6.URL","https://r6.r-lib.org, https://github.com/r-lib/R6/"
+"loadedOnly.R6.LazyData","true"
+"loadedOnly.R6.BugReports","https://github.com/r-lib/R6/issues"
+"loadedOnly.R6.RoxygenNote","6.1.1"
+"loadedOnly.R6.NeedsCompilation","no"
+"loadedOnly.R6.Packaged","2019-02-14 18:34:54 UTC; winston"
+"loadedOnly.R6.Author","Winston Chang [aut, cre]"
+"loadedOnly.R6.Maintainer","Winston Chang <winston@stdout.org>"
+"loadedOnly.R6.Repository","CRAN"
+"loadedOnly.R6.Date/Publication","2019-02-14 19:42:14 UTC"
+"loadedOnly.R6.Built","R 3.6.0; ; 2019-04-29 04:44:35 UTC; unix"
+"loadedOnly.foreign.Package","foreign"
+"loadedOnly.foreign.Priority","recommended"
+"loadedOnly.foreign.Version","0.8-71"
+"loadedOnly.foreign.Date","2018-07-20"
+"loadedOnly.foreign.Title","Read Data Stored by 'Minitab', 'S', 'SAS', 'SPSS', 'Stata',
+'Systat', 'Weka', 'dBase', ..."
+"loadedOnly.foreign.Depends","R (>= 3.0.0)"
+"loadedOnly.foreign.Imports","methods, utils, stats"
+"loadedOnly.foreign.Authors@R","c(
+   person(""R Core Team"",
+      email = ""R-core@R-project.org"", role = c(""aut"", ""cph"", ""cre"")),
+    person(""Roger"", ""Bivand"", role = c(""ctb"", ""cph"")),
+    person(c(""Vincent"", ""J.""), ""Carey"", role = c(""ctb"", ""cph"")),
+    person(""Saikat"", ""DebRoy"", role = c(""ctb"", ""cph"")),
+    person(""Stephen"", ""Eglen"", role = c(""ctb"", ""cph"")),
+    person(""Rajarshi"", ""Guha"", role = c(""ctb"", ""cph"")),
+    person(""Swetlana"", ""Herbrandt"", role = ""ctb""),
+    person(""Nicholas"", ""Lewin-Koh"", role = c(""ctb"", ""cph"")),
+    person(""Mark"", ""Myatt"", role = c(""ctb"", ""cph"")),
+    person(""Ben"", ""Pfaff"", role = ""ctb""),
+    person(""Brian"", ""Quistorff"", role = ""ctb""),
+    person(""Frank"", ""Warmerdam"", role = c(""ctb"", ""cph"")),
+    person(""Stephen"", ""Weigand"", role = c(""ctb"", ""cph"")),
+    person(""Free Software Foundation, Inc."", role = ""cph""))"
+"loadedOnly.foreign.Copyright","see file COPYRIGHTS"
+"loadedOnly.foreign.Description","Reading and writing data stored by some versions of
+	'Epi Info', 'Minitab', 'S', 'SAS', 'SPSS', 'Stata', 'Systat', 'Weka',
+	and for reading and writing some 'dBase' files."
+"loadedOnly.foreign.ByteCompile","yes"
+"loadedOnly.foreign.Biarch","yes"
+"loadedOnly.foreign.License","GPL (>= 2)"
+"loadedOnly.foreign.BugReports","https://bugs.r-project.org"
+"loadedOnly.foreign.NeedsCompilation","yes"
+"loadedOnly.foreign.Packaged","2018-07-20 09:11:09 UTC; ripley"
+"loadedOnly.foreign.Author","R Core Team [aut, cph, cre],
+  Roger Bivand [ctb, cph],
+  Vincent J. Carey [ctb, cph],
+  Saikat DebRoy [ctb, cph],
+  Stephen Eglen [ctb, cph],
+  Rajarshi Guha [ctb, cph],
+  Swetlana Herbrandt [ctb],
+  Nicholas Lewin-Koh [ctb, cph],
+  Mark Myatt [ctb, cph],
+  Ben Pfaff [ctb],
+  Brian Quistorff [ctb],
+  Frank Warmerdam [ctb, cph],
+  Stephen Weigand [ctb, cph],
+  Free Software Foundation, Inc. [cph]"
+"loadedOnly.foreign.Maintainer","R Core Team <R-core@R-project.org>"
+"loadedOnly.foreign.Repository","CRAN"
+"loadedOnly.foreign.Date/Publication","2018-07-20 09:17:09 UTC"
+"loadedOnly.foreign.Built","R 3.6.0; x86_64-pc-linux-gnu; 2019-05-22 22:52:12 UTC; unix"
+"loadedOnly.sp.Package","sp"
+"loadedOnly.sp.Version","1.3-1"
+"loadedOnly.sp.Title","Classes and Methods for Spatial Data"
+"loadedOnly.sp.Authors@R","c(person(""Edzer"", ""Pebesma"", role = c(""aut"", ""cre""),
+				email = ""edzer.pebesma@uni-muenster.de""),
+			person(""Roger"", ""Bivand"", role = ""aut"",
+            	email = ""Roger.Bivand@nhh.no""),
+			person(""Barry"", ""Rowlingson"", role = ""ctb""),
+			person(""Virgilio"", ""Gomez-Rubio"", role = ""ctb""),
+			person(""Robert"", ""Hijmans"", role = ""ctb""),
+			person(""Michael"", ""Sumner"", role = ""ctb""),
+			person(""Don"", ""MacQueen"", role = ""ctb""),
+			person(""Jim"", ""Lemon"", role = ""ctb""),
+			person(""Josh"", ""O'Brien"", role = ""ctb""),
+			person(""Joseph"", ""O'Rourke"", role = ""ctb""))"
+"loadedOnly.sp.Depends","R (>= 3.0.0), methods"
+"loadedOnly.sp.Imports","utils, stats, graphics, grDevices, lattice, grid"
+"loadedOnly.sp.Suggests","RColorBrewer, rgdal (>= 0.8-7), rgeos (>= 0.3-13), gstat,
+maptools, deldir"
+"loadedOnly.sp.Description","Classes and methods for spatial
+  data; the classes document where the spatial location information
+  resides, for 2D or 3D data. Utility functions are provided, e.g. for
+  plotting data as maps, spatial selection, as well as methods for
+  retrieving coordinates, for subsetting, print, summary, etc."
+"loadedOnly.sp.License","GPL (>= 2)"
+"loadedOnly.sp.URL","https://github.com/edzer/sp/ https://edzer.github.io/sp/"
+"loadedOnly.sp.BugReports","https://github.com/edzer/sp/issues"
+"loadedOnly.sp.Collate","bpy.colors.R AAA.R Class-CRS.R CRS-methods.R Class-Spatial.R
+Spatial-methods.R projected.R Class-SpatialPoints.R
+SpatialPoints-methods.R Class-SpatialPointsDataFrame.R
+SpatialPointsDataFrame-methods.R Class-SpatialMultiPoints.R
+SpatialMultiPoints-methods.R
+Class-SpatialMultiPointsDataFrame.R
+SpatialMultiPointsDataFrame-methods.R Class-GridTopology.R
+Class-SpatialGrid.R Class-SpatialGridDataFrame.R
+Class-SpatialLines.R SpatialLines-methods.R
+Class-SpatialLinesDataFrame.R SpatialLinesDataFrame-methods.R
+Class-SpatialPolygons.R Class-SpatialPolygonsDataFrame.R
+SpatialPolygons-methods.R SpatialPolygonsDataFrame-methods.R
+GridTopology-methods.R SpatialGrid-methods.R
+SpatialGridDataFrame-methods.R SpatialPolygons-internals.R
+point.in.polygon.R SpatialPolygons-displayMethods.R zerodist.R
+image.R stack.R bubble.R mapasp.R select.spatial.R gridded.R
+asciigrid.R spplot.R over.R spsample.R recenter.R dms.R
+gridlines.R spdists.R rbind.R flipSGDF.R chfids.R loadmeuse.R
+compassRose.R surfaceArea.R spOptions.R subset.R disaggregate.R
+sp_spat1.R merge.R aggregate.R"
+"loadedOnly.sp.NeedsCompilation","yes"
+"loadedOnly.sp.Packaged","2018-06-05 09:56:27 UTC; edzer"
+"loadedOnly.sp.Author","Edzer Pebesma [aut, cre],
+  Roger Bivand [aut],
+  Barry Rowlingson [ctb],
+  Virgilio Gomez-Rubio [ctb],
+  Robert Hijmans [ctb],
+  Michael Sumner [ctb],
+  Don MacQueen [ctb],
+  Jim Lemon [ctb],
+  Josh O'Brien [ctb],
+  Joseph O'Rourke [ctb]"
+"loadedOnly.sp.Maintainer","Edzer Pebesma <edzer.pebesma@uni-muenster.de>"
+"loadedOnly.sp.Repository","CRAN"
+"loadedOnly.sp.Date/Publication","2018-06-05 13:58:03 UTC"
+"loadedOnly.sp.Built","R 3.6.0; x86_64-pc-linux-gnu; 2019-05-07 22:37:17 UTC; unix"
+"loadedOnly.purrr.Package","purrr"
+"loadedOnly.purrr.Title","Functional Programming Tools"
+"loadedOnly.purrr.Version","0.3.2"
+"loadedOnly.purrr.Authors@R","c(
+    person(""Lionel"", ""Henry"", , ""lionel@rstudio.com"", c(""aut"", ""cre"")),
+    person(""Hadley"", ""Wickham"", , ""hadley@rstudio.com"", ""aut""),
+    person(""RStudio"", role = c(""cph"", ""fnd""))
+    )"
+"loadedOnly.purrr.Description","A complete and consistent functional programming toolkit for R."
+"loadedOnly.purrr.License","GPL-3 | file LICENSE"
+"loadedOnly.purrr.URL","http://purrr.tidyverse.org, https://github.com/tidyverse/purrr"
+"loadedOnly.purrr.BugReports","https://github.com/tidyverse/purrr/issues"
+"loadedOnly.purrr.Depends","R (>= 3.1)"
+"loadedOnly.purrr.Imports","magrittr (>= 1.5), rlang (>= 0.3.1)"
+"loadedOnly.purrr.Suggests","covr, crayon, dplyr (>= 0.7.8), knitr, rmarkdown, testthat,
+tibble, tidyselect"
+"loadedOnly.purrr.VignetteBuilder","knitr"
+"loadedOnly.purrr.Encoding","UTF-8"
+"loadedOnly.purrr.LazyData","true"
+"loadedOnly.purrr.RoxygenNote","6.1.1"
+"loadedOnly.purrr.NeedsCompilation","yes"
+"loadedOnly.purrr.Packaged","2019-03-15 15:56:56 UTC; lionel"
+"loadedOnly.purrr.Author","Lionel Henry [aut, cre],
+  Hadley Wickham [aut],
+  RStudio [cph, fnd]"
+"loadedOnly.purrr.Maintainer","Lionel Henry <lionel@rstudio.com>"
+"loadedOnly.purrr.Repository","CRAN"
+"loadedOnly.purrr.Date/Publication","2019-03-15 18:20:02 UTC"
+"loadedOnly.purrr.Built","R 3.6.0; x86_64-pc-linux-gnu; 2019-04-29 04:54:56 UTC; unix"
+"loadedOnly.magrittr.Package","magrittr"
+"loadedOnly.magrittr.Type","Package"
+"loadedOnly.magrittr.Title","A Forward-Pipe Operator for R"
+"loadedOnly.magrittr.Version","1.5"
+"loadedOnly.magrittr.Author","Stefan Milton Bache <stefan@stefanbache.dk> and
+    Hadley Wickham <h.wickham@gmail.com>"
+"loadedOnly.magrittr.Maintainer","Stefan Milton Bache <stefan@stefanbache.dk>"
+"loadedOnly.magrittr.Description","Provides a mechanism for chaining commands with a
+    new forward-pipe operator, %>%. This operator will forward a
+    value, or the result of an expression, into the next function
+    call/expression. There is flexible support for the type
+    of right-hand side expressions. For more information, see
+    package vignette.
+    To quote Rene Magritte, ""Ceci n'est pas un pipe."""
+"loadedOnly.magrittr.Suggests","testthat, knitr"
+"loadedOnly.magrittr.VignetteBuilder","knitr"
+"loadedOnly.magrittr.License","MIT + file LICENSE"
+"loadedOnly.magrittr.ByteCompile","Yes"
+"loadedOnly.magrittr.Packaged","2014-11-22 08:50:53 UTC; shb"
+"loadedOnly.magrittr.NeedsCompilation","no"
+"loadedOnly.magrittr.Repository","CRAN"
+"loadedOnly.magrittr.Date/Publication","2014-11-22 19:15:57"
+"loadedOnly.magrittr.Built","R 3.6.0; ; 2019-04-29 04:42:58 UTC; unix"
+"loadedOnly.scales.Package","scales"
+"loadedOnly.scales.Title","Scale Functions for Visualization"
+"loadedOnly.scales.Version","1.0.0"
+"loadedOnly.scales.Authors@R","c(
+    person(""Hadley"", ""Wickham"", , ""hadley@rstudio.com"", c(""aut"", ""cre"")),
+    person(""RStudio"", role = ""cph"")
+    )"
+"loadedOnly.scales.Description","Graphical scales map data to aesthetics, and provide
+    methods for automatically determining breaks and labels
+    for axes and legends."
+"loadedOnly.scales.License","MIT + file LICENSE"
+"loadedOnly.scales.URL","https://scales.r-lib.org, https://github.com/r-lib/scales"
+"loadedOnly.scales.BugReports","https://github.com/r-lib/scales/issues"
+"loadedOnly.scales.Depends","R (>= 3.1)"
+"loadedOnly.scales.Imports","labeling, munsell (>= 0.5), R6, RColorBrewer, Rcpp,
+viridisLite"
+"loadedOnly.scales.Suggests","dichromat, bit64, covr, hms, testthat (>= 2.0)"
+"loadedOnly.scales.LinkingTo","Rcpp"
+"loadedOnly.scales.LazyLoad","yes"
+"loadedOnly.scales.RoxygenNote","6.0.1.9000"
+"loadedOnly.scales.Encoding","UTF-8"
+"loadedOnly.scales.NeedsCompilation","yes"
+"loadedOnly.scales.Packaged","2018-08-07 18:17:33 UTC; hadley"
+"loadedOnly.scales.Author","Hadley Wickham [aut, cre],
+  RStudio [cph]"
+"loadedOnly.scales.Maintainer","Hadley Wickham <hadley@rstudio.com>"
+"loadedOnly.scales.Repository","CRAN"
+"loadedOnly.scales.Date/Publication","2018-08-09 10:10:03 UTC"
+"loadedOnly.scales.Built","R 3.6.0; x86_64-pc-linux-gnu; 2019-04-29 04:48:09 UTC; unix"
+"loadedOnly.units.Package","units"
+"loadedOnly.units.Version","0.6-4"
+"loadedOnly.units.Title","Measurement Units for R Vectors"
+"loadedOnly.units.Authors@R","c(person(""Edzer"", ""Pebesma"", role = c(""aut"", ""cre""), email = ""edzer.pebesma@uni-muenster.de"", comment = c(ORCID = ""0000-0001-8049-7069"")),
+		person(""Thomas"", ""Mailund"", role = ""aut"", email = ""mailund@birc.au.dk""),
+		person(""Tomasz"", ""Kalinowski"", role = ""aut""),
+		person(""James"", ""Hiebert"", role = ""ctb""),
+		person(""Iñaki"", ""Ucar"", role = ""ctb"", email = ""iucar@fedoraproject.org"", comment = c(ORCID = ""0000-0001-6403-5550""))
+		)"
+"loadedOnly.units.Depends","R (>= 3.0.2)"
+"loadedOnly.units.Imports","Rcpp"
+"loadedOnly.units.LinkingTo","Rcpp (>= 0.12.10)"
+"loadedOnly.units.Suggests","udunits2, NISTunits, measurements, xml2, tibble, pillar (>=
+1.3.0), knitr, testthat, ggforce, rmarkdown, magrittr"
+"loadedOnly.units.VignetteBuilder","knitr"
+"loadedOnly.units.Description","Support for measurement units in R vectors, matrices
+	and arrays: automatic propagation, conversion, derivation
+	and simplification of units; raising errors in case of unit
+	incompatibility. Compatible with the POSIXct, Date and difftime 
+	classes. Uses the UNIDATA udunits library and unit database for 
+	unit compatibility checking and conversion.
+	Documentation about 'units' is provided in the paper by Pebesma, Mailund &
+  Hiebert (2016, <doi:10.32614/RJ-2016-061>), included in this package as a
+  vignette; see 'citation(""units"")' for details."
+"loadedOnly.units.SystemRequirements","udunits-2"
+"loadedOnly.units.License","GPL-2"
+"loadedOnly.units.URL","https://github.com/r-quantities/units/"
+"loadedOnly.units.BugReports","https://github.com/r-quantities/units/issues/"
+"loadedOnly.units.RoxygenNote","6.1.1"
+"loadedOnly.units.Encoding","UTF-8"
+"loadedOnly.units.NeedsCompilation","yes"
+"loadedOnly.units.Packaged","2019-08-22 05:40:44 UTC; edzer"
+"loadedOnly.units.Author","Edzer Pebesma [aut, cre] (<https://orcid.org/0000-0001-8049-7069>),
+  Thomas Mailund [aut],
+  Tomasz Kalinowski [aut],
+  James Hiebert [ctb],
+  Iñaki Ucar [ctb] (<https://orcid.org/0000-0001-6403-5550>)"
+"loadedOnly.units.Maintainer","Edzer Pebesma <edzer.pebesma@uni-muenster.de>"
+"loadedOnly.units.Repository","CRAN"
+"loadedOnly.units.Date/Publication","2019-08-22 06:30:02 UTC"
+"loadedOnly.units.Built","R 3.6.1; x86_64-pc-linux-gnu; 2019-08-26 00:08:37 UTC; unix"
+"loadedOnly.maptools.Package","maptools"
+"loadedOnly.maptools.Version","0.9-5"
+"loadedOnly.maptools.Date","2019-02-18"
+"loadedOnly.maptools.Title","Tools for Handling Spatial Objects"
+"loadedOnly.maptools.Authors@R","c(
+	person(""Roger"", ""Bivand"", role = c(""cre"", ""aut""), email = ""Roger.Bivand@nhh.no"", comment=c(ORCID=""0000-0003-2392-6140"")),
+	person(""Nicholas"", ""Lewin-Koh"", role = ""aut""),
+	person(""Edzer"", ""Pebesma"", role = ""ctb""),
+	person(""Eric"", ""Archer"", role = ""ctb""),
+	person(""Adrian"", ""Baddeley"", role = ""ctb""),
+	person(""Nick"", ""Bearman"", role = ""ctb""),
+	person(""Hans-Jörg"", ""Bibiko"", role = ""ctb""),
+	person(""Steven"", ""Brey"", role = ""ctb""),
+	person(""Jonathan"", ""Callahan"", role = ""ctb""),
+	person(""German"", ""Carrillo"", role = ""ctb""),
+	person(""Stéphane"", ""Dray"", role = ""ctb""),
+	person(""David"", ""Forrest"", role = ""ctb""),
+	person(""Michael"", ""Friendly"", role = ""ctb""),
+	person(""Patrick"", ""Giraudoux"", role = ""ctb""),
+	person(""Duncan"", ""Golicher"", role = ""ctb""),
+	person(""Virgilio"", ""Gómez Rubio"", role = ""ctb""),
+	person(""Patrick"", ""Hausmann"", role = ""ctb""),
+	person(""Karl Ove"", ""Hufthammer"", role = ""ctb""),
+	person(""Thomas"", ""Jagger"", role = ""ctb""),
+	person(""Kent"", ""Johnson"", role = ""ctb""),
+	person(""Sebastian"", ""Luque"", role = ""ctb""),
+	person(""Don"", ""MacQueen"", role = ""ctb""),
+	person(""Andrew"", ""Niccolai"", role = ""ctb""),
+	person(""Edzer"", ""Pebesma"", role = ""ctb""),
+	person(""Oscar"", ""Perpiñán Lamigueiro"", role = ""ctb""),
+        person(""Ethan"", ""Plunkett"", role = ""ctb""),
+	person(""Tom"", ""Short"", role = ""ctb""),
+	person(""Greg"", ""Snow"", role = ""ctb""),
+	person(""Ben"", ""Stabler"", role = ""ctb""),
+	person(""Murray"", ""Stokely"", role = ""ctb""),
+	person(""Rolf"", ""Turner"", role = ""ctb""))"
+"loadedOnly.maptools.Encoding","UTF-8"
+"loadedOnly.maptools.Depends","R (>= 2.10), sp (>= 1.0-11)"
+"loadedOnly.maptools.Imports","foreign (>= 0.8), methods, grid, lattice, stats, utils,
+grDevices"
+"loadedOnly.maptools.Suggests","rgeos (>= 0.1-8), spatstat (>= 1.50), PBSmapping, maps,
+RColorBrewer, raster, polyclip, spatstat.utils"
+"loadedOnly.maptools.Enhances","gpclib, RArcInfo"
+"loadedOnly.maptools.Description","Set of tools for manipulating geographic data. It includes binary access to 'GSHHG' shoreline files. The package also provides interface wrappers for exchanging spatial objects with packages such as 'PBSmapping', 'spatstat', 'maps', 'RArcInfo', and others."
+"loadedOnly.maptools.License","GPL (>= 2)"
+"loadedOnly.maptools.URL","http://r-forge.r-project.org/projects/maptools/"
+"loadedOnly.maptools.RoxygenNote","6.1.1"
+"loadedOnly.maptools.NeedsCompilation","yes"
+"loadedOnly.maptools.Packaged","2019-02-18 08:37:28 UTC; rsb"
+"loadedOnly.maptools.Author","Roger Bivand [cre, aut] (<https://orcid.org/0000-0003-2392-6140>),
+  Nicholas Lewin-Koh [aut],
+  Edzer Pebesma [ctb],
+  Eric Archer [ctb],
+  Adrian Baddeley [ctb],
+  Nick Bearman [ctb],
+  Hans-Jörg Bibiko [ctb],
+  Steven Brey [ctb],
+  Jonathan Callahan [ctb],
+  German Carrillo [ctb],
+  Stéphane Dray [ctb],
+  David Forrest [ctb],
+  Michael Friendly [ctb],
+  Patrick Giraudoux [ctb],
+  Duncan Golicher [ctb],
+  Virgilio Gómez Rubio [ctb],
+  Patrick Hausmann [ctb],
+  Karl Ove Hufthammer [ctb],
+  Thomas Jagger [ctb],
+  Kent Johnson [ctb],
+  Sebastian Luque [ctb],
+  Don MacQueen [ctb],
+  Andrew Niccolai [ctb],
+  Edzer Pebesma [ctb],
+  Oscar Perpiñán Lamigueiro [ctb],
+  Ethan Plunkett [ctb],
+  Tom Short [ctb],
+  Greg Snow [ctb],
+  Ben Stabler [ctb],
+  Murray Stokely [ctb],
+  Rolf Turner [ctb]"
+"loadedOnly.maptools.Maintainer","Roger Bivand <Roger.Bivand@nhh.no>"
+"loadedOnly.maptools.Repository","CRAN"
+"loadedOnly.maptools.Date/Publication","2019-02-18 10:50:07 UTC"
+"loadedOnly.maptools.Built","R 3.6.0; x86_64-pc-linux-gnu; 2019-05-22 22:52:31 UTC; unix"
+"loadedOnly.assertthat.Package","assertthat"
+"loadedOnly.assertthat.Title","Easy Pre and Post Assertions"
+"loadedOnly.assertthat.Version","0.2.1"
+"loadedOnly.assertthat.Authors@R","
+  person(""Hadley"", ""Wickham"", , ""hadley@rstudio.com"", c(""aut"", ""cre""))"
+"loadedOnly.assertthat.Description","An extension to stopifnot() that makes it easy to declare 
+    the pre and post conditions that you code should satisfy, while also 
+    producing friendly error messages so that your users know what's gone
+    wrong."
+"loadedOnly.assertthat.License","GPL-3"
+"loadedOnly.assertthat.Imports","tools"
+"loadedOnly.assertthat.Suggests","testthat, covr"
+"loadedOnly.assertthat.RoxygenNote","6.0.1"
+"loadedOnly.assertthat.Collate","'assert-that.r' 'on-failure.r' 'assertions-file.r'
+'assertions-scalar.R' 'assertions.r' 'base.r'
+'base-comparison.r' 'base-is.r' 'base-logical.r' 'base-misc.r'
+'utils.r' 'validate-that.R'"
+"loadedOnly.assertthat.NeedsCompilation","no"
+"loadedOnly.assertthat.Packaged","2019-03-21 13:11:01 UTC; hadley"
+"loadedOnly.assertthat.Author","Hadley Wickham [aut, cre]"
+"loadedOnly.assertthat.Maintainer","Hadley Wickham <hadley@rstudio.com>"
+"loadedOnly.assertthat.Repository","CRAN"
+"loadedOnly.assertthat.Date/Publication","2019-03-21 14:53:46 UTC"
+"loadedOnly.assertthat.Built","R 3.6.0; ; 2019-04-29 04:42:55 UTC; unix"
+"loadedOnly.colorspace.Package","colorspace"
+"loadedOnly.colorspace.Version","1.4-1"
+"loadedOnly.colorspace.Date","2019-03-18"
+"loadedOnly.colorspace.Title","A Toolbox for Manipulating and Assessing Colors and Palettes"
+"loadedOnly.colorspace.Authors@R","c(person(given = ""Ross"", family = ""Ihaka"", role = ""aut"", email = ""ihaka@stat.auckland.ac.nz""),
+             person(given = ""Paul"", family = ""Murrell"", role = ""aut"", email = ""paul@stat.auckland.ac.nz"",
+                    comment = c(ORCID = ""0000-0002-3224-8858"")),
+             person(given = ""Kurt"", family = ""Hornik"", role = ""aut"", email = ""Kurt.Hornik@R-project.org"",
+		    comment = c(ORCID = ""0000-0003-4198-9911"")),
+             person(given = c(""Jason"", ""C.""), family = ""Fisher"", role = ""aut"", email = ""jfisher@usgs.gov"",
+                    comment = c(ORCID = ""0000-0001-9032-8912"")),
+             person(given = ""Reto"", family = ""Stauffer"", role = ""aut"", email = ""Reto.Stauffer@uibk.ac.at"",
+                    comment = c(ORCID = ""0000-0002-3798-5507"")),
+             person(given = c(""Claus"", ""O.""), family = ""Wilke"", role = ""aut"", email = ""wilke@austin.utexas.edu"",
+                    comment = c(ORCID = ""0000-0002-7470-9261"")),
+             person(given = c(""Claire"", ""D.""), family = ""McWhite"", role = ""aut"", email = ""claire.mcwhite@utmail.utexas.edu"",
+                    comment = c(ORCID = ""0000-0001-7346-3047"")),
+             person(given = ""Achim"", family = ""Zeileis"", role = c(""aut"", ""cre""), email = ""Achim.Zeileis@R-project.org"",
+                    comment = c(ORCID = ""0000-0003-0918-3766"")))"
+"loadedOnly.colorspace.Description","Carries out mapping between assorted color spaces including RGB, HSV, HLS,
+             CIEXYZ, CIELUV, HCL (polar CIELUV), CIELAB and polar CIELAB.
+	     Qualitative, sequential, and diverging color palettes based on HCL colors
+	     are provided along with corresponding ggplot2 color scales.
+	     Color palette choice is aided by an interactive app (with either a Tcl/Tk
+	     or a shiny GUI) and shiny apps with an HCL color picker and a
+	     color vision deficiency emulator. Plotting functions for displaying
+	     and assessing palettes include color swatches, visualizations of the
+	     HCL space, and trajectories in HCL and/or RGB spectrum. Color manipulation
+	     functions include: desaturation, lightening/darkening, mixing, and
+	     simulation of color vision deficiencies (deutanomaly, protanomaly, tritanomaly)."
+"loadedOnly.colorspace.Depends","R (>= 3.0.0), methods"
+"loadedOnly.colorspace.Imports","graphics, grDevices, stats"
+"loadedOnly.colorspace.Suggests","datasets, utils, KernSmooth, MASS, kernlab, mvtnorm, vcd,
+tcltk, shiny, shinyjs, ggplot2, dplyr, scales, grid, png, jpeg,
+knitr, rmarkdown, RColorBrewer, rcartocolor, scico, viridis,
+wesanderson"
+"loadedOnly.colorspace.VignetteBuilder","knitr"
+"loadedOnly.colorspace.License","BSD_3_clause + file LICENSE"
+"loadedOnly.colorspace.URL","http://colorspace.R-Forge.R-project.org, http://hclwizard.org/"
+"loadedOnly.colorspace.BugReports","http://colorspace.R-Forge.R-project.org/contact.html"
+"loadedOnly.colorspace.LazyData","yes"
+"loadedOnly.colorspace.RoxygenNote","6.1.1"
+"loadedOnly.colorspace.NeedsCompilation","yes"
+"loadedOnly.colorspace.Packaged","2019-03-18 09:11:41 UTC; zeileis"
+"loadedOnly.colorspace.Author","Ross Ihaka [aut],
+  Paul Murrell [aut] (<https://orcid.org/0000-0002-3224-8858>),
+  Kurt Hornik [aut] (<https://orcid.org/0000-0003-4198-9911>),
+  Jason C. Fisher [aut] (<https://orcid.org/0000-0001-9032-8912>),
+  Reto Stauffer [aut] (<https://orcid.org/0000-0002-3798-5507>),
+  Claus O. Wilke [aut] (<https://orcid.org/0000-0002-7470-9261>),
+  Claire D. McWhite [aut] (<https://orcid.org/0000-0001-7346-3047>),
+  Achim Zeileis [aut, cre] (<https://orcid.org/0000-0003-0918-3766>)"
+"loadedOnly.colorspace.Maintainer","Achim Zeileis <Achim.Zeileis@R-project.org>"
+"loadedOnly.colorspace.Repository","CRAN"
+"loadedOnly.colorspace.Date/Publication","2019-03-18 14:43:29 UTC"
+"loadedOnly.colorspace.Built","R 3.6.0; x86_64-pc-linux-gnu; 2019-04-29 04:42:23 UTC; unix"
+"loadedOnly.KernSmooth.Package","KernSmooth"
+"loadedOnly.KernSmooth.Priority","recommended"
+"loadedOnly.KernSmooth.Version","2.23-15"
+"loadedOnly.KernSmooth.Date","2015-06-29"
+"loadedOnly.KernSmooth.Title","Functions for Kernel Smoothing Supporting Wand & Jones (1995)"
+"loadedOnly.KernSmooth.Authors@R","c(person(""Matt"", ""Wand"", role = ""aut"",
+	             email = ""Matt.Wand@uts.edu.au""),
+             person(""Brian"", ""Ripley"", role = c(""trl"", ""cre"", ""ctb""),
+                    email = ""ripley@stats.ox.ac.uk"",
+		    comment = ""R port and updates""))"
+"loadedOnly.KernSmooth.Depends","R (>= 2.5.0), stats"
+"loadedOnly.KernSmooth.Suggests","MASS"
+"loadedOnly.KernSmooth.Description","Functions for kernel smoothing (and density estimation)
+  corresponding to the book: 
+  Wand, M.P. and Jones, M.C. (1995) ""Kernel Smoothing""."
+"loadedOnly.KernSmooth.License","Unlimited"
+"loadedOnly.KernSmooth.ByteCompile","yes"
+"loadedOnly.KernSmooth.NeedsCompilation","yes"
+"loadedOnly.KernSmooth.Packaged","2015-06-29 08:37:00 UTC; ripley"
+"loadedOnly.KernSmooth.Author","Matt Wand [aut],
+  Brian Ripley [trl, cre, ctb] (R port and updates)"
+"loadedOnly.KernSmooth.Maintainer","Brian Ripley <ripley@stats.ox.ac.uk>"
+"loadedOnly.KernSmooth.Repository","CRAN"
+"loadedOnly.KernSmooth.Date/Publication","2015-06-29 17:15:14"
+"loadedOnly.KernSmooth.Built","R 3.6.0; x86_64-pc-linux-gnu; 2019-05-07 22:41:18 UTC; unix"
+"loadedOnly.lazyeval.Package","lazyeval"
+"loadedOnly.lazyeval.Version","0.2.2"
+"loadedOnly.lazyeval.Title","Lazy (Non-Standard) Evaluation"
+"loadedOnly.lazyeval.Description","An alternative approach to non-standard evaluation using
+    formulas. Provides a full implementation of LISP style 'quasiquotation',
+    making it easier to generate code with other code."
+"loadedOnly.lazyeval.Authors@R","c(
+    person(""Hadley"", ""Wickham"", ,""hadley@rstudio.com"", c(""aut"", ""cre"")),
+    person(""RStudio"", role = ""cph"")
+    )"
+"loadedOnly.lazyeval.License","GPL-3"
+"loadedOnly.lazyeval.LazyData","true"
+"loadedOnly.lazyeval.Depends","R (>= 3.1.0)"
+"loadedOnly.lazyeval.Suggests","knitr, rmarkdown (>= 0.2.65), testthat, covr"
+"loadedOnly.lazyeval.VignetteBuilder","knitr"
+"loadedOnly.lazyeval.RoxygenNote","6.1.1"
+"loadedOnly.lazyeval.NeedsCompilation","yes"
+"loadedOnly.lazyeval.Packaged","2019-03-15 14:18:01 UTC; lionel"
+"loadedOnly.lazyeval.Author","Hadley Wickham [aut, cre],
+  RStudio [cph]"
+"loadedOnly.lazyeval.Maintainer","Hadley Wickham <hadley@rstudio.com>"
+"loadedOnly.lazyeval.Repository","CRAN"
+"loadedOnly.lazyeval.Date/Publication","2019-03-15 17:50:07 UTC"
+"loadedOnly.lazyeval.Built","R 3.6.0; x86_64-pc-linux-gnu; 2019-04-29 04:43:14 UTC; unix"
+"loadedOnly.munsell.Package","munsell"
+"loadedOnly.munsell.Type","Package"
+"loadedOnly.munsell.Title","Utilities for Using Munsell Colours"
+"loadedOnly.munsell.Version","0.5.0"
+"loadedOnly.munsell.Author","Charlotte Wickham <cwickham@gmail.com>"
+"loadedOnly.munsell.Maintainer","Charlotte Wickham <cwickham@gmail.com>"
+"loadedOnly.munsell.Description","Provides easy access to, and manipulation of, the Munsell 
+    colours. Provides a mapping between Munsell's 
+    original notation (e.g. ""5R 5/10"") and hexadecimal strings suitable 
+    for use directly in R graphics. Also provides utilities 
+    to explore slices through the Munsell colour tree, to transform 
+    Munsell colours and display colour palettes."
+"loadedOnly.munsell.Suggests","ggplot2, testthat"
+"loadedOnly.munsell.Imports","colorspace, methods"
+"loadedOnly.munsell.License","MIT + file LICENSE"
+"loadedOnly.munsell.URL","https://cran.r-project.org/package=munsell,
+https://github.com/cwickham/munsell/"
+"loadedOnly.munsell.RoxygenNote","6.0.1"
+"loadedOnly.munsell.NeedsCompilation","no"
+"loadedOnly.munsell.Packaged","2018-06-11 23:15:15 UTC; wickhamc"
+"loadedOnly.munsell.Repository","CRAN"
+"loadedOnly.munsell.Date/Publication","2018-06-12 04:29:06 UTC"
+"loadedOnly.munsell.Built","R 3.6.0; ; 2019-04-29 04:45:30 UTC; unix"
+"loadedOnly.crayon.Package","crayon"
+"loadedOnly.crayon.Title","Colored Terminal Output"
+"loadedOnly.crayon.Version","1.3.4"
+"loadedOnly.crayon.Authors@R","c(
+    person(""Gábor"", ""Csárdi"", , ""csardi.gabor@gmail.com"",
+    role = c(""aut"", ""cre"")),
+    person(
+    ""Brodie"", ""Gaslam"", email=""brodie.gaslam@yahoo.com"",
+    role=c(""ctb""))
+    )"
+"loadedOnly.crayon.Description","Colored terminal output on terminals that support 'ANSI'
+    color and highlight codes. It also works in 'Emacs' 'ESS'. 'ANSI'
+    color support is automatically detected. Colors and highlighting can
+    be combined and nested. New styles can also be created easily.
+    This package was inspired by the 'chalk' 'JavaScript' project."
+"loadedOnly.crayon.License","MIT + file LICENSE"
+"loadedOnly.crayon.LazyData","true"
+"loadedOnly.crayon.URL","https://github.com/r-lib/crayon#readme"
+"loadedOnly.crayon.BugReports","https://github.com/r-lib/crayon/issues"
+"loadedOnly.crayon.Collate","'ansi-256.r' 'combine.r' 'string.r' 'utils.r'
+'crayon-package.r' 'disposable.r' 'has_ansi.r' 'has_color.r'
+'styles.r' 'machinery.r' 'parts.r' 'print.r' 'style-var.r'
+'show.r' 'string_operations.r'"
+"loadedOnly.crayon.Imports","grDevices, methods, utils"
+"loadedOnly.crayon.Suggests","mockery, rstudioapi, testthat, withr"
+"loadedOnly.crayon.RoxygenNote","6.0.1.9000"
+"loadedOnly.crayon.Encoding","UTF-8"
+"loadedOnly.crayon.NeedsCompilation","no"
+"loadedOnly.crayon.Packaged","2017-09-15 18:14:04 UTC; gaborcsardi"
+"loadedOnly.crayon.Author","Gábor Csárdi [aut, cre],
+  Brodie Gaslam [ctb]"
+"loadedOnly.crayon.Maintainer","Gábor Csárdi <csardi.gabor@gmail.com>"
+"loadedOnly.crayon.Repository","CRAN"
+"loadedOnly.crayon.Date/Publication","2017-09-16 19:49:46 UTC"
+"loadedOnly.crayon.Built","R 3.6.0; ; 2019-04-29 04:44:33 UTC; unix"
+"matprod","default"
+"BLAS","/usr/lib/x86_64-linux-gnu/blas/libblas.so.3.7.1"
+"LAPACK","/usr/lib/x86_64-linux-gnu/lapack/liblapack.so.3.7.1"
